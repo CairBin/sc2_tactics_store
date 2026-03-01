@@ -1,0 +1,140 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "SC2 Tactics Index Schema",
+    "description": "SC2战术仓库索引文件的格式校验规则",
+    "type": "object",
+    "required": [
+        "meta",
+        "tactics"
+    ],
+    "properties": {
+        "meta": {
+            "type": "object",
+            "description": "索引元信息",
+            "required": [
+                "updateTime",
+                "totalTactics"
+            ],
+            "properties": {
+                "version": {
+                    "type": "string",
+                    "description": "索引版本（如1.0）"
+                },
+                "category": {
+                    "type": "string",
+                    "description": "仅分类索引有：对战类型（pvp/pvt等）",
+                    "enum": [
+                        "pvp",
+                        "pvt",
+                        "pvz",
+                        "zvt",
+                        "zvp",
+                        "zvz",
+                        "tvz",
+                        "tvp",
+                        "tvt"
+                    ]
+                },
+                "version": {
+                    "type": "string",
+                    "description": "仅版本索引有：适用SC2版本（如4.10）"
+                },
+                "updateTime": {
+                    "type": "string",
+                    "description": "索引更新时间（ISO 8601格式）",
+                    "format": "date-time"
+                },
+                "totalTactics": {
+                    "type": "integer",
+                    "description": "索引包含的战术总数",
+                    "minimum": 0
+                }
+            }
+        },
+        "tactics": {
+            "type": "array",
+            "description": "战术索引列表",
+            "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "name",
+                    "author",
+                    "matchup",
+                    "applicableVersion",
+                    "tacticType",
+                    "filePath"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string",
+                        "description": "战术唯一ID（GUID）",
+                        "format": "uuid"
+                    },
+                    "name": {
+                        "type": "string",
+                        "description": "战术名称",
+                        "minLength": 1
+                    },
+                    "author": {
+                        "type": "string",
+                        "description": "战术作者（与store目录下的作者目录名一致）",
+                        "minLength": 1
+                    },
+                    "matchup": {
+                        "type": "string",
+                        "description": "对战类型",
+                        "enum": [
+                            "pvp",
+                            "pvt",
+                            "pvz",
+                            "zvt",
+                            "zvp",
+                            "zvz",
+                            "tvz",
+                            "tvp",
+                            "tvt"
+                        ]
+                    },
+                    "applicableVersion": {
+                        "type": "string",
+                        "description": "适用SC2版本",
+                        "minLength": 1
+                    },
+                    "tacticType": {
+                        "type": "string",
+                        "description": "战术类型（时间轴/单步）",
+                        "enum": [
+                            "Timeline",
+                            "Step"
+                        ]
+                    },
+                    "tacVersion": {
+                        "type": "integer",
+                        "description": "战术文件版本（迭代用）",
+                        "minimum": 0
+                    },
+                    "modName": {
+                        "type": "string",
+                        "description": "对应MOD名称"
+                    },
+                    "modVersion": {
+                        "type": "integer",
+                        "description": "MOD最低版本",
+                        "minimum": 0
+                    },
+                    "updateTime": {
+                        "type": "string",
+                        "description": "战术更新时间",
+                        "format": "date-time"
+                    },
+                    "filePath": {
+                        "type": "string",
+                        "description": "战术文件相对路径",
+                        "pattern": "^store/[^/]+/[^/]+\\.json$"
+                    }
+                }
+            }
+        }
+    }
+}
