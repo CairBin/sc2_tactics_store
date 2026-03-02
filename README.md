@@ -7,6 +7,7 @@ sc2_tactics_store/
 ├── README.md               # 仓库说明、使用文档、贡献指南
 ├── index.json              # 全局主索引（核心！前端优先加载这个）
 ├── index_schema.json       # 索引文件的JSON Schema（校验索引格式）
+├── composer.json           # 创作者列表
 ├── store/                  # 战术文件主存储目录
 │   ├── author_zhang/       # 上传者目录（示例：作者zhang）
 │   │   ├── zvt_rush_2024.json    # 具体战术文件（ZvT rush 2024版本）

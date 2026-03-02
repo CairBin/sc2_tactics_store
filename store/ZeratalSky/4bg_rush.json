@@ -1,0 +1,177 @@
+{
+    "Id": "25376a41-1620-473b-a6bf-3d1f5738a99b",
+    "Name": "PvP 4BG 追猎rush",
+    "Author": "ZeratalSky",
+    "Description": "神族大招",
+    "ApplicableVersion": "2.5.0.15.96516",
+    "TacticType": "Timeline",
+    "TacVersion": 1,
+    "UpdateTime": "2026-03-02T00:00:00",
+    "ModName": "Scii",
+    "ModVersion": 100,
+    "Matchup": "pvp",
+    "Actions": [
+        {
+            "Step": 1,
+            "ItemAbbr": "路口水晶",
+            "Time": 18,
+            "Supply": "14/15",
+            "Number": 1
+        },
+        {
+            "Step": 2,
+            "ItemAbbr": "兵营",
+            "Time": 38,
+            "Supply": "16/23",
+            "Number": 1
+        },
+        {
+            "Step": 3,
+            "ItemAbbr": "星空加速基地",
+            "Time": 39,
+            "Supply": "16/23",
+            "Number": 1
+        },
+        {
+            "Step": 4,
+            "ItemAbbr": "气矿",
+            "Time": 48,
+            "Supply": "17/23",
+            "Number": 1
+        },
+        {
+            "Step": 5,
+            "ItemAbbr": "2气矿",
+            "Time": 56,
+            "Supply": "18/23",
+            "Number": 1
+        },
+        {
+            "Step": 6,
+            "ItemAbbr": "2兵营",
+            "Time": 68,
+            "Supply": "19/23",
+            "Number": 1
+        },
+        {
+            "Step": 7,
+            "ItemAbbr": "农民出门",
+            "Time": 70,
+            "Supply": "19/23",
+            "Number": 1
+        },
+        {
+            "Step": 8,
+            "ItemAbbr": "控制核心",
+            "Time": 87,
+            "Supply": "21/23",
+            "Number": 1
+        },
+        {
+            "Step": 9,
+            "ItemAbbr": "2水晶",
+            "Time": 93,
+            "Supply": "22/23",
+            "Number": 1
+        },
+        {
+            "Step": 10,
+            "ItemAbbr": "停农民",
+            "Time": 110,
+            "Supply": "23/31",
+            "Number": 1
+        },
+        {
+            "Step": 11,
+            "ItemAbbr": "追猎者",
+            "Time": 123,
+            "Supply": "27/31",
+            "Number": 2
+        },
+        {
+            "Step": 12,
+            "ItemAbbr": "折跃门科技",
+            "Time": 124,
+            "Supply": "27/31",
+            "Number": 1
+        },
+        {
+            "Step": 13,
+            "ItemAbbr": "星空加速控制核心",
+            "Time": 125,
+            "Supply": "27/31",
+            "Number": 1
+        },
+        {
+            "Step": 14,
+            "ItemAbbr": "野外3水晶",
+            "Time": 129,
+            "Supply": "27/31",
+            "Number": 1
+        },
+        {
+            "Step": 15,
+            "ItemAbbr": "追猎",
+            "Time": 150,
+            "Supply": "31/39",
+            "Number": 2
+        },
+        {
+            "Step": 16,
+            "ItemAbbr": "野外3兵营",
+            "Time": 154,
+            "Supply": "31/39",
+            "Number": 1
+        },
+        {
+            "Step": 17,
+            "ItemAbbr": "4兵营",
+            "Time": 158,
+            "Supply": "31/39",
+            "Number": 1
+        },
+        {
+            "Step": 18,
+            "ItemAbbr": "追猎者",
+            "Time": 178,
+            "Supply": "35/39",
+            "Number": 2
+        },
+        {
+            "Step": 19,
+            "ItemAbbr": "4水晶",
+            "Time": 180,
+            "Supply": "35/39",
+            "Number": 1
+        },
+        {
+            "Step": 20,
+            "ItemAbbr": "星空加速控制核心",
+            "Time": 190,
+            "Supply": "35/47",
+            "Number": 1
+        },
+        {
+            "Step": 21,
+            "ItemAbbr": "追猎者",
+            "Time": 217,
+            "Supply": "43/47",
+            "Number": 4
+        },
+        {
+            "Step": 22,
+            "ItemAbbr": "5水晶",
+            "Time": 230,
+            "Supply": "43/47",
+            "Number": 1
+        },
+        {
+            "Step": 23,
+            "ItemAbbr": "进攻",
+            "Time": 240,
+            "Supply": "43/47",
+            "Number": 1
+        }
+    ],
+    "ActionsListStr": "00:18, 路口水晶*1, 14/15\n00:38, 兵营*1, 16/23\n00:39, 星空加速基地*1, 16/23\n00:48, 气矿*1, 17/23\n00:56, 2气矿*1, 18/23\n01:08, 2兵营*1, 19/23\n01:10, 农民出门*1, 19/23\n01:27, 控制核心*1, 21/23\n01:33, 2水晶*1, 22/23\n01:50, 停农民*1, 23/31\n02:03, 追猎者*2, 27/31\n02:04, 折跃门科技*1, 27/31\n02:05, 星空加速控制核心*1, 27/31\n02:09, 野外3水晶*1, 27/31\n02:30, 追猎*2, 31/39\n02:34, 野外3兵营*1, 31/39\n02:38, 4兵营*1, 31/39\n02:58, 追猎者*2, 35/39\n03:00, 4水晶*1, 35/39\n03:10, 星空加速控制核心*1, 35/47\n03:37, 追猎者*4, 43/47\n03:50, 5水晶*1, 43/47\n04:00, 进攻*1, 43/47"
+}
