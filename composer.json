@@ -22,5 +22,21 @@
         "title": "虫族高玩",
         "description": "中国第一Z!",
         "url": "https://space.bilibili.com/493587887"
+    },
+    {
+        "id": "4",
+        "name": "血液摇摆xy",
+        "avatar": "asset/avatar/xueye.webp",
+        "title": "星际老登",
+        "description": "无情的切片机器",
+        "url": "https://space.bilibili.com/6834596"
+    },
+    {
+        "id": "5",
+        "name": "半个菜鸟（鸟哥）",
+        "avatar": "asset/avatar/xy.webp",
+        "title": "人族高玩",
+        "description": "神经病吧，素质高点!",
+        "url": "https://space.bilibili.com/33305476"
     }
 ]
