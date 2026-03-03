@@ -1,8 +1,25 @@
-{
-    "id": "1",
-    "name": "小金者",
-    "avatar": "asset/avatar/xiaojin.jpg",
-    "title": "神族导师",
-    "description": "我就是即时战略高端玩家小金者！",
-    "url": "https://space.bilibili.com/12610294"
-}
+[
+    {
+        "id": "1",
+        "name": "小金者",
+        "avatar": "asset/avatar/xiaojin.jpg",
+        "title": "神族导师",
+        "description": "我就是即时战略高端玩家小金者！",
+        "url": "https://space.bilibili.com/12610294"
+    },
+    {
+        "id": "2",
+        "name": "DarkCarrot",
+        "avatar": "asset/avatar/darkcarrot.webp",
+        "title": "泰伦市长",
+        "description": "即时战略游戏up主！键盘上撒一把米，鸡都比我打得好！",
+        "url": "https://space.bilibili.com/21869937"
+    },
+    {
+        "id": "3",
+        "name": "南优",
+        "avatar": "asset/avatar/nanyou.webp",
+        "title": "虫族高玩",
+        "description": "中国第一Z!"
+    }
+]
