@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "1.0",
-    "updateTime": "2026-03-03T00:44:46.844281",
-    "totalTactics": 1
+    "updateTime": "2026-03-05T19:40:00.000000",
+    "totalTactics": 3
   },
   "tactics": [
     {
@@ -17,6 +17,32 @@
       "modVersion": 100,
       "updateTime": "2026-03-02T00:00:00",
       "filePath": "store/ZeratalSky/4bg_rush.json"
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-2345678901bc",
+      "name": "PvT 猛男流",
+      "author": "ZeratalSky",
+      "matchup": "pvt",
+      "applicableVersion": "2.5.0.15.96516",
+      "tacticType": "Timeline",
+      "tacVersion": 1,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-03-05T00:00:00",
+      "filePath": "store/ZeratalSky/pvt_mengnan.json"
+    },
+    {
+      "id": "c3d4e5f6-7890-1234-5678-90abcdef1234",
+      "name": "PvZ 两航母",
+      "author": "ZeratalSky",
+      "matchup": "pvz",
+      "applicableVersion": "2.5.0.15.96516",
+      "tacticType": "Timeline",
+      "tacVersion": 1,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-03-05T00:00:00",
+      "filePath": "store/ZeratalSky/pvz_carrier.json"
     }
   ]
 }
