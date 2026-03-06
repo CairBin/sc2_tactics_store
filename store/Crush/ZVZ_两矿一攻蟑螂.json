@@ -1,0 +1,282 @@
+{
+  "Id": "d50d5e52-4dcf-497c-a7c0-5165cb5f62ef",
+  "Name": "ZVZ 两矿一攻蟑螂",
+  "Author": "Crush",
+  "Description": "适合低APM虫族玩家",
+  "ApplicableVersion": "2.5.0.15.96516",
+  "TacticType": "Timeline",
+  "TacVersion": 1,
+  "UpdateTime": "2026-03-06T17:51:39",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "zvz",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "工蜂",
+      "Time": 0,
+      "Supply": "13/14",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "王虫",
+      "Time": 12,
+      "Supply": "13/14",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "工蜂",
+      "Time": 16,
+      "Supply": "14/14",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "工蜂",
+      "Time": 30,
+      "Supply": "16/22",
+      "Number": 2
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "二基地",
+      "Time": 48,
+      "Supply": "15/22",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "工蜂",
+      "Time": 50,
+      "Supply": "16/22",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "工蜂",
+      "Time": 55,
+      "Supply": "17/22",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "工蜂",
+      "Time": 59,
+      "Supply": "18/22",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "气矿",
+      "Time": 70,
+      "Supply": "17/22",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "血池",
+      "Time": 74,
+      "Supply": "16/22",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "工蜂",
+      "Time": 78,
+      "Supply": "18/22",
+      "Number": 2
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "工蜂",
+      "Time": 89,
+      "Supply": "19/22",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "工蜂",
+      "Time": 100,
+      "Supply": "20/22",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "王虫",
+      "Time": 110,
+      "Supply": "20/22",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "虫后",
+      "Time": 118,
+      "Supply": "26/28",
+      "Number": 2
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "跳虫",
+      "Time": 122,
+      "Supply": "26/28",
+      "Number": 2
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "工蜂",
+      "Time": 134,
+      "Supply": "28/36",
+      "Number": 2
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "工蜂",
+      "Time": 146,
+      "Supply": "30/36",
+      "Number": 2
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "注卵",
+      "Time": 156,
+      "Supply": "34/36",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "王虫",
+      "Time": 161,
+      "Supply": "35/36",
+      "Number": 1
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "工蜂",
+      "Time": 163,
+      "Supply": "35/36",
+      "Number": 1
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "蟑螂巢、工蜂",
+      "Time": 170,
+      "Supply": "35/36",
+      "Number": 1
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "进化腔",
+      "Time": 180,
+      "Supply": "34/36",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "工蜂",
+      "Time": 185,
+      "Supply": "36/44",
+      "Number": 2
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "注卵",
+      "Time": 187,
+      "Supply": "39/44",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "工蜂",
+      "Time": 188,
+      "Supply": "39/44",
+      "Number": 3
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "进化腔、王虫",
+      "Time": 195,
+      "Supply": "38/44",
+      "Number": 1
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "地面远程一攻",
+      "Time": 202,
+      "Supply": "39/44",
+      "Number": 1
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "工蜂",
+      "Time": 205,
+      "Supply": "39/44",
+      "Number": 1
+    },
+    {
+      "Step": 30,
+      "ItemAbbr": "气矿",
+      "Time": 210,
+      "Supply": "37/44",
+      "Number": 2
+    },
+    {
+      "Step": 31,
+      "ItemAbbr": "工蜂",
+      "Time": 213,
+      "Supply": "38/52",
+      "Number": 1
+    },
+    {
+      "Step": 32,
+      "ItemAbbr": "王虫",
+      "Time": 215,
+      "Supply": "38/52",
+      "Number": 1
+    },
+    {
+      "Step": 33,
+      "ItemAbbr": "蟑螂速度",
+      "Time": 223,
+      "Supply": "40/52",
+      "Number": 1
+    },
+    {
+      "Step": 34,
+      "ItemAbbr": "蟑螂",
+      "Time": 225,
+      "Supply": "40/52",
+      "Number": 1
+    },
+    {
+      "Step": 35,
+      "ItemAbbr": "王虫",
+      "Time": 248,
+      "Supply": "42/68",
+      "Number": 2
+    },
+    {
+      "Step": 36,
+      "ItemAbbr": "蟑螂",
+      "Time": 250,
+      "Supply": "42/68",
+      "Number": 1
+    },
+    {
+      "Step": 37,
+      "ItemAbbr": "王虫",
+      "Time": 268,
+      "Supply": "44/84",
+      "Number": 2
+    },
+    {
+      "Step": 38,
+      "ItemAbbr": "蟑螂",
+      "Time": 270,
+      "Supply": "44/84",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:00, 工蜂*1, 13/14\n00:12, 王虫*1, 13/14\n00:16, 工蜂*1, 14/14\n00:30, 工蜂*2, 16/22\n00:48, 二基地*1, 15/22\n00:50, 工蜂*1, 16/22\n00:55, 工蜂*1, 17/22\n00:59, 工蜂*1, 18/22\n01:10, 气矿*1, 17/22\n01:14, 血池*1, 16/22\n01:18, 工蜂*2, 18/22\n01:29, 工蜂*1, 19/22\n01:40, 工蜂*1, 20/22\n01:50, 王虫*1, 20/22\n01:58, 虫后*2, 26/28\n02:02, 跳虫*2, 26/28\n02:14, 工蜂*2, 28/36\n02:26, 工蜂*2, 30/36\n02:36, 注卵*1, 34/36\n02:41, 王虫*1, 35/36\n02:43, 工蜂*1, 35/36\n02:50, 蟑螂巢、工蜂*1, 35/36\n03:00, 进化腔*1, 34/36\n03:05, 工蜂*2, 36/44\n03:07, 注卵*1, 39/44\n03:08, 工蜂*3, 39/44\n03:15, 进化腔、王虫*1, 38/44\n03:22, 地面远程一攻*1, 39/44\n03:25, 工蜂*1, 39/44\n03:30, 气矿*2, 37/44\n03:33, 工蜂*1, 38/52\n03:35, 王虫*1, 38/52\n03:43, 蟑螂速度*1, 40/52\n03:45, 蟑螂*1, 40/52\n04:08, 王虫*2, 42/68\n04:10, 蟑螂*1, 42/68\n04:28, 王虫*2, 44/84\n04:30, 蟑螂*1, 44/84"
+}

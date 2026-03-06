@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "1.0",
-    "updateTime": "2026-03-07T01:17:49.086754",
-    "totalTactics": 2
+    "updateTime": "2026-03-07T02:09:46.922604",
+    "totalTactics": 4
   },
   "tactics": [
     {
@@ -17,6 +17,32 @@
       "modVersion": 100,
       "updateTime": "2026-03-06T17:16:18",
       "filePath": "store/cairbin/PVT_xx_rush.json"
+    },
+    {
+      "id": "ca17628d-bc82-2563-8a64-a4980e7da251",
+      "name": "ZVZ 12D狗毒爆一波",
+      "author": "Crush",
+      "matchup": "zvz",
+      "applicableVersion": "2.5.0.15.96516",
+      "tacticType": "Timeline",
+      "tacVersion": 1,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-03-06T17:51:39",
+      "filePath": "store/Crush/ZVZ_12D狗毒爆一波.json"
+    },
+    {
+      "id": "d50d5e52-4dcf-497c-a7c0-5165cb5f62ef",
+      "name": "ZVZ 两矿一攻蟑螂",
+      "author": "Crush",
+      "matchup": "zvz",
+      "applicableVersion": "2.5.0.15.96516",
+      "tacticType": "Timeline",
+      "tacVersion": 1,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-03-06T17:51:39",
+      "filePath": "store/Crush/ZVZ_两矿一攻蟑螂.json"
     },
     {
       "id": "25376a41-1620-473b-a6bf-3d1f5738a99b",

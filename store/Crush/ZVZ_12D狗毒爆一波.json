@@ -1,0 +1,157 @@
+{
+    "Id": "ca17628d-bc82-2563-8a64-a4980e7da251",
+    "Name": "ZVZ 12D狗毒爆一波",
+    "Author": "Crush",
+    "Description": "虫族快攻战术",
+    "ApplicableVersion": "2.5.0.15.96516",
+    "TacticType": "Timeline",
+    "TacVersion": 1,
+    "UpdateTime": "2026-03-06T17:51:39",
+    "ModName": "Scii",
+    "ModVersion": 100,
+    "Matchup": "zvz",
+    "Actions": [
+        {
+            "Step": 1,
+            "ItemAbbr": "气矿",
+            "Time": 12,
+            "Supply": "11/14",
+            "Number": 1
+        },
+        {
+            "Step": 2,
+            "ItemAbbr": "血池",
+            "Time": 21,
+            "Supply": "10/14",
+            "Number": 1
+        },
+        {
+            "Step": 3,
+            "ItemAbbr": "工蜂",
+            "Time": 25,
+            "TimeStr": "00:25",
+            "Supply": "11/14",
+            "Number": 1
+        },
+        {
+            "Step": 4,
+            "ItemAbbr": "工蜂",
+            "Time": 30,
+            "Supply": "12/14",
+            "Number": 1
+        },
+        {
+            "Step": 5,
+            "ItemAbbr": "工蜂",
+            "Time": 35,
+            "Supply": "13/14",
+            "Number": 1
+        },
+        {
+            "Step": 6,
+            "ItemAbbr": "王虫",
+            "Time": 48,
+            "Supply": "13/14",
+            "Number": 1
+        },
+        {
+            "Step": 7,
+            "ItemAbbr": "跳虫",
+            "Time": 68,
+            "Supply": "16/22",
+            "Number": 6
+        },
+        {
+            "Step": 8,
+            "ItemAbbr": "狗速",
+            "Time": 75,
+            "Supply": "16/22",
+            "Number": 1
+        },
+        {
+            "Step": 9,
+            "ItemAbbr": "跳虫",
+            "Time": 81,
+            "Supply": "17/22",
+            "Number": 2
+        },
+        {
+            "Step": 10,
+            "ItemAbbr": "跳虫",
+            "Time": 90,
+            "Supply": "18/22",
+            "Number": 2
+        },
+        {
+            "Step": 11,
+            "ItemAbbr": "毒爆虫巢",
+            "Time": 97,
+            "Supply": "17/22",
+            "Number": 1
+        },
+        {
+            "Step": 12,
+            "ItemAbbr": "跳虫",
+            "Time": 101,
+            "Supply": "18/22",
+            "Number": 2
+        },
+        {
+            "Step": 13,
+            "ItemAbbr": "跳虫",
+            "Time": 111,
+            "Supply": "19/22",
+            "Number": 2
+        },
+        {
+            "Step": 14,
+            "ItemAbbr": "虫后",
+            "Time": 123,
+            "Supply": "21/22",
+            "Number": 1
+        },
+        {
+            "Step": 15,
+            "ItemAbbr": "王虫",
+            "Time": 134,
+            "Supply": "21/22",
+            "Number": 1
+        },
+        {
+            "Step": 16,
+            "ItemAbbr": "跳虫",
+            "Time": 138,
+            "Supply": "22/22",
+            "Number": 2
+        },
+        {
+            "Step": 17,
+            "ItemAbbr": "毒爆",
+            "Time": 143,
+            "Supply": "22/22",
+            "Number": 2
+        },
+        {
+            "Step": 18,
+            "ItemAbbr": "跳虫",
+            "Time": 152,
+            "Supply": "23/30",
+            "Number": 2
+        },
+        {
+            "Step": 19,
+            "ItemAbbr": "注卵",
+            "Time": 157,
+            "Supply": "24/30",
+            "Number": 1
+        },
+        {
+            "Step": 20,
+            "ItemAbbr": "跳虫",
+            "Time": 159,
+            "Supply": "24/30",
+            "Number": 2
+        }
+    ],
+    "ActionsListStr": "00:12, 气矿*1, 11/14\n00:21, 血池*1, 10/14\n00:25, 工蜂*1, 11/14\n00:30, 工蜂*1, 12/14\n00:35, 工蜂*1, 13/14\n00:48, 王虫*1, 13/14\n01:08, 跳虫*6, 16/22\n01:15, 狗速*1, 16/22\n01:21, 跳虫*2, 17/22\n01:30, 跳虫*2, 18/22\n01:37, 毒爆虫巢*1, 17/22\n01:41, 跳虫*2, 18/22\n01:51, 跳虫*2, 19/22\n02:03, 虫后*1, 21/22\n02:14, 王虫*1, 21/22\n02:18, 跳虫*2, 22/22\n02:23, 毒爆*2, 22/22\n02:32, 跳虫*2, 23/30\n02:37, 注卵*1, 24/30\n02:39, 跳虫*2, 24/30"
+}
