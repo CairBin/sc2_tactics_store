@@ -1,22 +1,22 @@
 {
   "meta": {
-    "category": "pvt",
+    "category": "pvz",
     "updateTime": "2026-03-07T04:07:49.198131",
     "totalTactics": 1
   },
   "tactics": [
     {
-      "id": "53b58ab1-4246-42e2-808a-134041c24c0d",
-      "name": "PVT急速霸王叉",
+      "id": "74acb64c-e261-4144-bba7-94aabeaa3747",
+      "name": "PVZ 小金两航母",
       "author": "CairBin",
-      "matchup": "pvt",
+      "matchup": "pvz",
       "applicableVersion": "2.5.0.15.96516",
       "tacticType": "Timeline",
       "tacVersion": 1,
       "modName": "Scii",
       "modVersion": 100,
-      "updateTime": "2026-03-06T17:16:18",
-      "filePath": "store/cairbin/PVT_xx_rush.json"
+      "updateTime": "2026-03-06T20:06:43",
+      "filePath": "store/cairbin/PVZ_小金两航母.json"
     }
   ]
 }

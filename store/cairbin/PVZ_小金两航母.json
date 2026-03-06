@@ -1,0 +1,604 @@
+{
+  "Id": "74acb64c-e261-4144-bba7-94aabeaa3747",
+  "Name": "PVZ 小金两航母",
+  "Author": "CairBin",
+  "Description": "小金者的经典战术，航母两小金！也是神族必学战术之一！（后期农民补充时间可能不对吗，根据基本功来补充不卡人口就行）",
+  "ApplicableVersion": "2.5.0.15.96516",
+  "TacticType": "Timeline",
+  "TacVersion": 1,
+  "UpdateTime": "2026-03-06T20:06:43",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "pvz",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "探机",
+      "Time": 0,
+      "Supply": "13/15",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "探机",
+      "Time": 9,
+      "Supply": "13/15",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "拖农民去二矿路口",
+      "Time": 12,
+      "Supply": "14/15",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "水晶",
+      "Time": 20,
+      "Supply": "14/15",
+      "Number": 1
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "农民回去采矿",
+      "Time": 21,
+      "Supply": "14/15",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "探机",
+      "Time": 23,
+      "Supply": "14/15",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "拖一农民去二矿路口",
+      "Time": 30,
+      "Supply": "15/15",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "探机",
+      "Time": 35,
+      "Supply": "15/15",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "兵营",
+      "Time": 38,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "探路侦察",
+      "Time": 39,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "星空加速基地",
+      "Time": 41,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "探机",
+      "Time": 44,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "气矿",
+      "Time": 48,
+      "Supply": "17/23",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "探机",
+      "Time": 55,
+      "Supply": "17/23",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "探机",
+      "Time": 60,
+      "Supply": "18/23",
+      "Number": 1
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "基地换线到气矿",
+      "Time": 63,
+      "Supply": "18/23",
+      "Number": 1
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "探机",
+      "Time": 68,
+      "Supply": "19/23",
+      "Number": 1
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "基地换线到二矿",
+      "Time": 70,
+      "Supply": "19/23",
+      "Number": 1
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "二基地",
+      "Time": 83,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "换线回主矿区",
+      "Time": 85,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "控制芯核",
+      "Time": 94,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "探机",
+      "Time": 98,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "气矿",
+      "Time": 104,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "探机",
+      "Time": 105,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "二水晶",
+      "Time": 114,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "探机",
+      "Time": 116,
+      "Supply": "22/23",
+      "Number": 1
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "探机",
+      "Time": 128,
+      "Supply": "23/23",
+      "Number": 1
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "使徒并加速",
+      "Time": 130,
+      "Supply": "25/31",
+      "Number": 1
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "折跃门",
+      "Time": 133,
+      "Supply": "25/31",
+      "Number": 1
+    },
+    {
+      "Step": 30,
+      "ItemAbbr": "探机",
+      "Time": 135,
+      "Supply": "26/31",
+      "Number": 1
+    },
+    {
+      "Step": 31,
+      "ItemAbbr": "星门",
+      "Time": 150,
+      "Supply": "26/31",
+      "Number": 1
+    },
+    {
+      "Step": 32,
+      "ItemAbbr": "使徒出门",
+      "Time": 153,
+      "Supply": "26/31",
+      "Number": 1
+    },
+    {
+      "Step": 33,
+      "ItemAbbr": "探机",
+      "Time": 156,
+      "Supply": "28/46",
+      "Number": 3
+    },
+    {
+      "Step": 34,
+      "ItemAbbr": "加速两个基地",
+      "Time": 158,
+      "Supply": "28/46",
+      "Number": 1
+    },
+    {
+      "Step": 35,
+      "ItemAbbr": "追猎",
+      "Time": 160,
+      "Supply": "32/46",
+      "Number": 1
+    },
+    {
+      "Step": 36,
+      "ItemAbbr": "探机",
+      "Time": 165,
+      "Supply": "33/46",
+      "Number": 2
+    },
+    {
+      "Step": 37,
+      "ItemAbbr": "兵营",
+      "Time": 176,
+      "Supply": "34/46",
+      "Number": 1
+    },
+    {
+      "Step": 38,
+      "ItemAbbr": "探机",
+      "Time": 184,
+      "Supply": "36/46",
+      "Number": 2
+    },
+    {
+      "Step": 39,
+      "ItemAbbr": "虚空",
+      "Time": 190,
+      "Supply": "40/46",
+      "Number": 1
+    },
+    {
+      "Step": 40,
+      "ItemAbbr": "探机",
+      "Time": 192,
+      "Supply": "41/46",
+      "Number": 2
+    },
+    {
+      "Step": 41,
+      "ItemAbbr": "加速星门",
+      "Time": 195,
+      "Supply": "42/46",
+      "Number": 1
+    },
+    {
+      "Step": 42,
+      "ItemAbbr": "探机",
+      "Time": 200,
+      "Supply": "42/46",
+      "Number": 2
+    },
+    {
+      "Step": 43,
+      "ItemAbbr": "水晶",
+      "Time": 202,
+      "Supply": "42/46",
+      "Number": 1
+    },
+    {
+      "Step": 44,
+      "ItemAbbr": "气矿",
+      "Time": 207,
+      "Supply": "42/46",
+      "Number": 2
+    },
+    {
+      "Step": 45,
+      "ItemAbbr": "探机",
+      "Time": 210,
+      "Supply": "43/46",
+      "Number": 1
+    },
+    {
+      "Step": 46,
+      "ItemAbbr": "水晶",
+      "Time": 214,
+      "Supply": "44/46",
+      "Number": 1
+    },
+    {
+      "Step": 47,
+      "ItemAbbr": "探机",
+      "Time": 217,
+      "Supply": "44/46",
+      "Number": 2
+    },
+    {
+      "Step": 48,
+      "ItemAbbr": "水晶",
+      "Time": 220,
+      "Supply": "46/54",
+      "Number": 1
+    },
+    {
+      "Step": 49,
+      "ItemAbbr": "探机",
+      "Time": 227,
+      "Supply": "46/54",
+      "Number": 2
+    },
+    {
+      "Step": 50,
+      "ItemAbbr": "探机",
+      "Time": 235,
+      "Supply": "47/62",
+      "Number": 1
+    },
+    {
+      "Step": 51,
+      "ItemAbbr": "探机",
+      "Time": 240,
+      "Supply": "47/62",
+      "Number": 2
+    },
+    {
+      "Step": 52,
+      "ItemAbbr": "探机",
+      "Time": 247,
+      "Supply": "50/70",
+      "Number": 2
+    },
+    {
+      "Step": 53,
+      "ItemAbbr": "星门",
+      "Time": 253,
+      "Supply": "50/70",
+      "Number": 1
+    },
+    {
+      "Step": 54,
+      "ItemAbbr": "舰队航标",
+      "Time": 255,
+      "Supply": "51/70",
+      "Number": 1
+    },
+    {
+      "Step": 55,
+      "ItemAbbr": "使徒",
+      "Time": 257,
+      "Supply": "55/70",
+      "Number": 2
+    },
+    {
+      "Step": 56,
+      "ItemAbbr": "空军一攻",
+      "Time": 260,
+      "Supply": "55/70",
+      "Number": 1
+    },
+    {
+      "Step": 57,
+      "ItemAbbr": "使徒飞三矿",
+      "Time": 263,
+      "Supply": "55/70",
+      "Number": 1
+    },
+    {
+      "Step": 58,
+      "ItemAbbr": "探机",
+      "Time": 265,
+      "Supply": "55/70",
+      "Number": 2
+    },
+    {
+      "Step": 59,
+      "ItemAbbr": "水晶",
+      "Time": 280,
+      "Supply": "58/70",
+      "Number": 1
+    },
+    {
+      "Step": 60,
+      "ItemAbbr": "探机",
+      "Time": 285,
+      "Supply": "61/78",
+      "Number": 2
+    },
+    {
+      "Step": 61,
+      "ItemAbbr": "水晶",
+      "Time": 293,
+      "Supply": "61/78",
+      "Number": 1
+    },
+    {
+      "Step": 62,
+      "ItemAbbr": "航母",
+      "Time": 300,
+      "Supply": "66/86",
+      "Number": 1
+    },
+    {
+      "Step": 63,
+      "ItemAbbr": "探机",
+      "Time": 307,
+      "Supply": "68/86",
+      "Number": 2
+    },
+    {
+      "Step": 64,
+      "ItemAbbr": "航母",
+      "Time": 310,
+      "Supply": "74/86",
+      "Number": 1
+    },
+    {
+      "Step": 65,
+      "ItemAbbr": "三矿",
+      "Time": 312,
+      "Supply": "74/86",
+      "Number": 1
+    },
+    {
+      "Step": 66,
+      "ItemAbbr": "加速两机场",
+      "Time": 314,
+      "Supply": "74/86",
+      "Number": 1
+    },
+    {
+      "Step": 67,
+      "ItemAbbr": "三矿水晶",
+      "Time": 318,
+      "Supply": "74/86",
+      "Number": 2
+    },
+    {
+      "Step": 68,
+      "ItemAbbr": "二矿电池",
+      "Time": 326,
+      "Supply": "74/86",
+      "Number": 1
+    },
+    {
+      "Step": 69,
+      "ItemAbbr": "探机",
+      "Time": 328,
+      "Supply": "75/86",
+      "Number": 1
+    },
+    {
+      "Step": 70,
+      "ItemAbbr": "二矿水晶",
+      "Time": 330,
+      "Supply": "75/86",
+      "Number": 1
+    },
+    {
+      "Step": 71,
+      "ItemAbbr": "探机",
+      "Time": 332,
+      "Supply": "76/86",
+      "Number": 1
+    },
+    {
+      "Step": 72,
+      "ItemAbbr": "加速星门",
+      "Time": 334,
+      "Supply": "76/86",
+      "Number": 1
+    },
+    {
+      "Step": 73,
+      "ItemAbbr": "光影议会",
+      "Time": 338,
+      "Supply": "76/102",
+      "Number": 1
+    },
+    {
+      "Step": 74,
+      "ItemAbbr": "锻炉",
+      "Time": 339,
+      "Supply": "76/102",
+      "Number": 1
+    },
+    {
+      "Step": 75,
+      "ItemAbbr": "水晶",
+      "Time": 340,
+      "Supply": "77/102",
+      "Number": 1
+    },
+    {
+      "Step": 76,
+      "ItemAbbr": "兵营",
+      "Time": 350,
+      "Supply": "78/102",
+      "Number": 1
+    },
+    {
+      "Step": 77,
+      "ItemAbbr": "加速BY",
+      "Time": 360,
+      "Supply": "78/102",
+      "Number": 1
+    },
+    {
+      "Step": 78,
+      "ItemAbbr": "两航母进攻",
+      "Time": 362,
+      "Supply": "78/102",
+      "Number": 1
+    },
+    {
+      "Step": 79,
+      "ItemAbbr": "虚空",
+      "Time": 365,
+      "Supply": "86/102",
+      "Number": 2
+    },
+    {
+      "Step": 80,
+      "ItemAbbr": "探机",
+      "Time": 368,
+      "Supply": "86/102",
+      "Number": 2
+    },
+    {
+      "Step": 81,
+      "ItemAbbr": "圣堂武士文献馆",
+      "Time": 375,
+      "Supply": "86/102",
+      "Number": 1
+    },
+    {
+      "Step": 82,
+      "ItemAbbr": "地面一攻",
+      "Time": 387,
+      "Supply": "86/102",
+      "Number": 1
+    },
+    {
+      "Step": 83,
+      "ItemAbbr": "脚速",
+      "Time": 389,
+      "Supply": "86/102",
+      "Number": 1
+    },
+    {
+      "Step": 84,
+      "ItemAbbr": "气矿",
+      "Time": 390,
+      "Supply": "86/102",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:00, 探机*1, 13/15\n00:09, 探机*1, 13/15\n00:12, 拖农民去二矿路口*1, 14/15\n00:20, 水晶*1, 14/15\n00:21, 农民回去采矿*1, 14/15\n00:23, 探机*1, 14/15\n00:30, 拖一农民去二矿路口*1, 15/15\n00:35, 探机*1, 15/15\n00:38, 兵营*1, 16/23\n00:39, 探路侦察*1, 16/23\n00:41, 星空加速基地*1, 16/23\n00:44, 探机*1, 16/23\n00:48, 气矿*1, 17/23\n00:55, 探机*1, 17/23\n01:00, 探机*1, 18/23\n01:03, 基地换线到气矿*1, 18/23\n01:08, 探机*1, 19/23\n01:10, 基地换线到二矿*1, 19/23\n01:23, 二基地*1, 20/23\n01:25, 换线回主矿区*1, 20/23\n01:34, 控制芯核*1, 20/23\n01:38, 探机*1, 21/23\n01:44, 气矿*1, 21/23\n01:45, 探机*1, 21/23\n01:54, 二水晶*1, 21/23\n01:56, 探机*1, 22/23\n02:08, 探机*1, 23/23\n02:10, 使徒并加速*1, 25/31\n02:13, 折跃门*1, 25/31\n02:15, 探机*1, 26/31\n02:30, 星门*1, 26/31\n02:33, 使徒出门*1, 26/31\n02:36, 探机*3, 28/46\n02:38, 加速两个基地*1, 28/46\n02:40, 追猎*1, 32/46\n02:45, 探机*2, 33/46\n02:56, 兵营*1, 34/46\n03:04, 探机*2, 36/46\n03:10, 虚空*1, 40/46\n03:12, 探机*2, 41/46\n03:15, 加速星门*1, 42/46\n03:20, 探机*2, 42/46\n03:22, 水晶*1, 42/46\n03:27, 气矿*2, 42/46\n03:30, 探机*1, 43/46\n03:34, 水晶*1, 44/46\n03:37, 探机*2, 44/46\n03:40, 水晶*1, 46/54\n03:47, 探机*2, 46/54\n03:55, 探机*1, 47/62\n04:00, 探机*2, 47/62\n04:07, 探机*2, 50/70\n04:13, 星门*1, 50/70\n04:15, 舰队航标*1, 51/70\n04:17, 使徒*2, 55/70\n04:20, 空军一攻*1, 55/70\n04:23, 使徒飞三矿*1, 55/70\n04:25, 探机*2, 55/70\n04:40, 水晶*1, 58/70\n04:45, 探机*2, 61/78\n04:53, 水晶*1, 61/78\n05:00, 航母*1, 66/86\n05:07, 探机*2, 68/86\n05:10, 航母*1, 74/86\n05:12, 三矿*1, 74/86\n05:14, 加速两机场*1, 74/86\n05:18, 三矿水晶*2, 74/86\n05:26, 二矿电池*1, 74/86\n05:28, 探机*1, 75/86\n05:30, 二矿水晶*1, 75/86\n05:32, 探机*1, 76/86\n05:34, 加速星门*1, 76/86\n05:38, 光影议会*1, 76/102\n05:39, 锻炉*1, 76/102\n05:40, 水晶*1, 77/102\n05:50, 兵营*1, 78/102\n06:00, 加速BY*1, 78/102\n06:02, 两航母进攻*1, 78/102\n06:05, 虚空*2, 86/102\n06:08, 探机*2, 86/102\n06:15, 圣堂武士文献馆*1, 86/102\n06:27, 地面一攻*1, 86/102\n06:29, 脚速*1, 86/102\n06:30, 气矿*1, 86/102"
+}

@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "1.0",
-    "updateTime": "2026-03-07T02:09:46.922604",
-    "totalTactics": 4
+    "updateTime": "2026-03-07T04:07:49.196588",
+    "totalTactics": 5
   },
   "tactics": [
     {
@@ -17,6 +17,19 @@
       "modVersion": 100,
       "updateTime": "2026-03-06T17:16:18",
       "filePath": "store/cairbin/PVT_xx_rush.json"
+    },
+    {
+      "id": "74acb64c-e261-4144-bba7-94aabeaa3747",
+      "name": "PVZ 小金两航母",
+      "author": "CairBin",
+      "matchup": "pvz",
+      "applicableVersion": "2.5.0.15.96516",
+      "tacticType": "Timeline",
+      "tacVersion": 1,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-03-06T20:06:43",
+      "filePath": "store/cairbin/PVZ_小金两航母.json"
     },
     {
       "id": "ca17628d-bc82-2563-8a64-a4980e7da251",
