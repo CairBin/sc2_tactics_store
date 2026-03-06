@@ -1,0 +1,387 @@
+{
+  "Id": "c3d4e5f6-7890-1234-5678-90abcdef1234",
+  "Name": "PvZ 两航母",
+  "Author": "ZeratalSky",
+  "Description": "神族运营",
+  "ApplicableVersion": "2.5.0.15.96516",
+  "TacticType": "Timeline",
+  "TacVersion": 1,
+  "UpdateTime": "2026-03-05T00:00:00",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "pvz",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "农民去2矿",
+      "Time": 8,
+      "Supply": "13/15",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "二矿路口水晶",
+      "Time": 18,
+      "Supply": "14/15",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "一兵营",
+      "Time": 37,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "农民侦察",
+      "Time": 41,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "星空加速基地",
+      "Time": 44,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "气矿",
+      "Time": 47,
+      "Supply": "17/23",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "调2农民采气",
+      "Time": 77,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "二基地",
+      "Time": 86,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "控制核心",
+      "Time": 94,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "恢复农民",
+      "Time": 98,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "二气矿",
+      "Time": 103,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "主矿水晶",
+      "Time": 110,
+      "Supply": "22/23",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "使徒",
+      "Time": 130,
+      "Supply": "26/31",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "折跃门",
+      "Time": 135,
+      "Supply": "26/31",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "星门",
+      "Time": 150,
+      "Supply": "27/31",
+      "Number": 1
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "星空加速双基地",
+      "Time": 155,
+      "Supply": "31/46",
+      "Number": 1
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "追猎者",
+      "Time": 160,
+      "Supply": "31/46",
+      "Number": 1
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "二兵营",
+      "Time": 176,
+      "Supply": "34/46",
+      "Number": 1
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "虚空",
+      "Time": 191,
+      "Supply": "40/46",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "二矿二水晶",
+      "Time": 200,
+      "Supply": "42/46",
+      "Number": 1
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "二矿34气",
+      "Time": 204,
+      "Supply": "42/46",
+      "Number": 1
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "主矿二水晶",
+      "Time": 210,
+      "Supply": "44/46",
+      "Number": 1
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "6农民采气",
+      "Time": 230,
+      "Supply": "48/62",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "水晶塔",
+      "Time": 235,
+      "Supply": "50/62",
+      "Number": 1
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "二星门，舰队航标",
+      "Time": 253,
+      "Supply": "50/70",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "空军一攻",
+      "Time": 262,
+      "Supply": "52/70",
+      "Number": 1
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "使徒",
+      "Time": 265,
+      "Supply": "56/70",
+      "Number": 2
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "水晶塔",
+      "Time": 270,
+      "Supply": "60/70",
+      "Number": 1
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "停农民",
+      "Time": 280,
+      "Supply": "60/70",
+      "Number": 1
+    },
+    {
+      "Step": 30,
+      "ItemAbbr": "水晶塔",
+      "Time": 285,
+      "Supply": "60/78",
+      "Number": 1
+    },
+    {
+      "Step": 31,
+      "ItemAbbr": "农民去三开",
+      "Time": 300,
+      "Supply": "60/78",
+      "Number": 1
+    },
+    {
+      "Step": 32,
+      "ItemAbbr": "航母",
+      "Time": 305,
+      "Supply": "72/86",
+      "Number": 2
+    },
+    {
+      "Step": 33,
+      "ItemAbbr": "三基地和三矿两根水晶",
+      "Time": 310,
+      "Supply": "72/86",
+      "Number": 1
+    },
+    {
+      "Step": 34,
+      "ItemAbbr": "星空加速双星门",
+      "Time": 315,
+      "Supply": "72/86",
+      "Number": 1
+    },
+    {
+      "Step": 35,
+      "ItemAbbr": "水晶塔",
+      "Time": 330,
+      "Supply": "72/102",
+      "Number": 2
+    },
+    {
+      "Step": 36,
+      "ItemAbbr": "恢复农民",
+      "Time": 333,
+      "Supply": "74/102",
+      "Number": 1
+    },
+    {
+      "Step": 37,
+      "ItemAbbr": "星空加速双星门",
+      "Time": 336,
+      "Supply": "74/102",
+      "Number": 1
+    },
+    {
+      "Step": 38,
+      "ItemAbbr": "光影议会和锻炉",
+      "Time": 340,
+      "Supply": "74/102",
+      "Number": 1
+    },
+    {
+      "Step": 39,
+      "ItemAbbr": "水晶塔",
+      "Time": 345,
+      "Supply": "74/102",
+      "Number": 1
+    },
+    {
+      "Step": 40,
+      "ItemAbbr": "兵营",
+      "Time": 355,
+      "Supply": "74/110",
+      "Number": 2
+    },
+    {
+      "Step": 41,
+      "ItemAbbr": "水晶塔",
+      "Time": 358,
+      "Supply": "74/110",
+      "Number": 1
+    },
+    {
+      "Step": 42,
+      "ItemAbbr": "航母进攻",
+      "Time": 361,
+      "Supply": "74/110",
+      "Number": 1
+    },
+    {
+      "Step": 43,
+      "ItemAbbr": "虚空",
+      "Time": 364,
+      "Supply": "82/110",
+      "Number": 2
+    },
+    {
+      "Step": 44,
+      "ItemAbbr": "星空加速控制核心",
+      "Time": 370,
+      "Supply": "82/110",
+      "Number": 1
+    },
+    {
+      "Step": 45,
+      "ItemAbbr": "二矿路口电池",
+      "Time": 375,
+      "Supply": "82/110",
+      "Number": 1
+    },
+    {
+      "Step": 46,
+      "ItemAbbr": "机械台",
+      "Time": 382,
+      "Supply": "85/118",
+      "Number": 1
+    },
+    {
+      "Step": 47,
+      "ItemAbbr": "圣堂武士文献馆",
+      "Time": 385,
+      "Supply": "85/126",
+      "Number": 1
+    },
+    {
+      "Step": 48,
+      "ItemAbbr": "水晶塔",
+      "Time": 390,
+      "Supply": "85/126",
+      "Number": 2
+    },
+    {
+      "Step": 49,
+      "ItemAbbr": "三矿5气",
+      "Time": 393,
+      "Supply": "86/133",
+      "Number": 1
+    },
+    {
+      "Step": 50,
+      "ItemAbbr": "地面一攻和脚速",
+      "Time": 400,
+      "Supply": "86/133",
+      "Number": 1
+    },
+    {
+      "Step": 51,
+      "ItemAbbr": "航母回城",
+      "Time": 430,
+      "Supply": "86/133",
+      "Number": 1
+    },
+    {
+      "Step": 52,
+      "ItemAbbr": "地堡电池哨兵使徒风暴",
+      "Time": 440,
+      "Supply": "100/120",
+      "Number": 1
+    },
+    {
+      "Step": 53,
+      "ItemAbbr": "闪电",
+      "Time": 480,
+      "Supply": "120/150",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:08, 农民去2矿*1, 13/15\n00:18, 二矿路口水晶*1, 14/15\n00:37, 一兵营*1, 16/23\n00:41, 农民侦察*1, 16/23\n00:44, 星空加速基地*1, 16/23\n00:47, 气矿*1, 17/23\n01:17, 调2农民采气*1, 20/23\n01:26, 二基地*1, 20/23\n01:34, 控制核心*1, 20/23\n01:38, 恢复农民*1, 21/23\n01:43, 二气矿*1, 21/23\n01:50, 主矿水晶*1, 22/23\n02:10, 使徒*1, 26/31\n02:15, 折跃门*1, 26/31\n02:30, 星门*1, 27/31\n02:35, 星空加速双基地*1, 31/46\n02:40, 追猎者*1, 31/46\n02:56, 二兵营*1, 34/46\n03:11, 虚空*1, 40/46\n03:20, 二矿二水晶*1, 42/46\n03:24, 二矿34气*1, 42/46\n03:30, 主矿二水晶*1, 44/46\n03:50, 6农民采气*1, 48/62\n03:55, 水晶塔*1, 50/62\n04:13, 二星门，舰队航标*1, 50/70\n04:22, 空军一攻*1, 52/70\n04:25, 使徒*2, 56/70\n04:30, 水晶塔*1, 60/70\n04:40, 停农民*1, 60/70\n04:45, 水晶塔*1, 60/78\n05:00, 农民去三开*1, 60/78\n05:05, 航母*2, 72/86\n05:10, 三基地和三矿两根水晶*1, 72/86\n05:15, 星空加速双星门*1, 72/86\n05:30, 水晶塔*2, 72/102\n05:33, 恢复农民*1, 74/102\n05:36, 星空加速双星门*1, 74/102\n05:40, 光影议会和锻炉*1, 74/102\n05:45, 水晶塔*1, 74/102\n05:55, 兵营*2, 74/110\n05:58, 水晶塔*1, 74/110\n06:01, 航母进攻*1, 74/110\n06:04, 虚空*2, 82/110\n06:10, 星空加速控制核心*1, 82/110\n06:15, 二矿路口电池*1, 82/110\n06:22, 机械台*1, 85/118\n06:25, 圣堂武士文献馆*1, 85/126\n06:30, 水晶塔*2, 85/126\n06:33, 三矿5气*1, 86/133\n06:40, 地面一攻和脚速*1, 86/133\n07:10, 航母回城*1, 86/133\n07:20, 地堡电池哨兵使徒风暴*1, 100/120\n08:00, 闪电*1, 120/150"
+}
