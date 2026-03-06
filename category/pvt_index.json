@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "category": "pvt",
+    "updateTime": "2026-03-07T01:17:49.087753",
+    "totalTactics": 1
+  },
+  "tactics": [
+    {
+      "id": "53b58ab1-4246-42e2-808a-134041c24c0d",
+      "name": "PVT急速霸王叉",
+      "author": "CairBin",
+      "matchup": "pvt",
+      "applicableVersion": "2.5.0.15.96516",
+      "tacticType": "Timeline",
+      "tacVersion": 1,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-03-06T17:16:18",
+      "filePath": "store/cairbin/PVT_xx_rush.json"
+    }
+  ]
+}

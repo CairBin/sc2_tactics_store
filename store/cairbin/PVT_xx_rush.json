@@ -1,0 +1,219 @@
+{
+  "Id": "53b58ab1-4246-42e2-808a-134041c24c0d",
+  "Name": "PVT急速霸王叉",
+  "Author": "CairBin",
+  "Description": "PVT急速霸王叉，简单好用两矿一波战术",
+  "ApplicableVersion": "2.5.0.15.96516",
+  "TacticType": "Timeline",
+  "TacVersion": 1,
+  "UpdateTime": "2026-03-06T17:16:18",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "pvt",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "跳台水晶",
+      "Time": 16,
+      "Supply": "14/15",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "拖农民下兵营",
+      "Time": 38,
+      "Supply": "15/15",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "农民探路",
+      "Time": 39,
+      "Supply": "15/15",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "星空加速基地",
+      "Time": 48,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "气矿",
+      "Time": 52,
+      "Supply": "17/23",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "矿区拖农民下控制芯体",
+      "Time": 82,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "农民去下二基地",
+      "Time": 84,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "侦察农民去空投处待命",
+      "Time": 94,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "二水晶",
+      "Time": 105,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "二气矿",
+      "Time": 109,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "星空加速使徒",
+      "Time": 126,
+      "Supply": "25/31",
+      "Number": 1
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "折跃门科技",
+      "Time": 127,
+      "Supply": "25/31",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "野水晶",
+      "Time": 143,
+      "Supply": "26/31",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "追猎者",
+      "Time": 146,
+      "Supply": "28/31",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "光影议会",
+      "Time": 165,
+      "Supply": "30/39",
+      "Number": 1
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "二矿电池",
+      "Time": 180,
+      "Supply": "32/54",
+      "Number": 1
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "野机械台",
+      "Time": 184,
+      "Supply": "33/54",
+      "Number": 1
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "农民停气去采二矿",
+      "Time": 190,
+      "Supply": "34/54",
+      "Number": 1
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "脚速并星空加速",
+      "Time": 197,
+      "Supply": "35/54",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "停农民",
+      "Time": 205,
+      "Supply": "35/54",
+      "Number": 1
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "二矿口兵营",
+      "Time": 207,
+      "Supply": "35/54",
+      "Number": 2
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "野兵营",
+      "Time": 218,
+      "Supply": "36/54",
+      "Number": 5
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "星空加速脚速",
+      "Time": 240,
+      "Supply": "36/54",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "棱镜并星空加速",
+      "Time": 245,
+      "Supply": "38/54",
+      "Number": 1
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "水晶",
+      "Time": 249,
+      "Supply": "38/54",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "水晶",
+      "Time": 256,
+      "Supply": "38/54",
+      "Number": 1
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "狂热者",
+      "Time": 266,
+      "Supply": "44/54",
+      "Number": 3
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "棱镜投叉子",
+      "Time": 281,
+      "Supply": "44/70",
+      "Number": 1
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "刷叉",
+      "Time": 283,
+      "Supply": "44/70",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:16, 跳台水晶*1, 14/15\n00:38, 拖农民下兵营*1, 15/15\n00:39, 农民探路*1, 15/15\n00:48, 星空加速基地*1, 16/23\n00:52, 气矿*1, 17/23\n01:22, 矿区拖农民下控制芯体*1, 20/23\n01:24, 农民去下二基地*1, 20/23\n01:34, 侦察农民去空投处待命*1, 20/23\n01:45, 二水晶*1, 21/23\n01:49, 二气矿*1, 21/23\n02:06, 星空加速使徒*1, 25/31\n02:07, 折跃门科技*1, 25/31\n02:23, 野水晶*1, 26/31\n02:26, 追猎者*1, 28/31\n02:45, 光影议会*1, 30/39\n03:00, 二矿电池*1, 32/54\n03:04, 野机械台*1, 33/54\n03:10, 农民停气去采二矿*1, 34/54\n03:17, 脚速并星空加速*1, 35/54\n03:25, 停农民*1, 35/54\n03:27, 二矿口兵营*2, 35/54\n03:38, 野兵营*5, 36/54\n04:00, 星空加速脚速*1, 36/54\n04:05, 棱镜并星空加速*1, 38/54\n04:09, 水晶*1, 38/54\n04:16, 水晶*1, 38/54\n04:26, 狂热者*3, 44/54\n04:41, 棱镜投叉子*1, 44/70\n04:43, 刷叉*1, 44/70"
+}
