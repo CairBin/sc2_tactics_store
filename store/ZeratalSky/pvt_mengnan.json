@@ -1,0 +1,352 @@
+{
+  "Id": "b2c3d4e5-f6a7-8901-bcde-2345678901bc",
+  "Name": "PvT 猛男流",
+  "Author": "ZeratalSky",
+  "Description": "神族运营",
+  "ApplicableVersion": "2.5.0.15.96516",
+  "TacticType": "Timeline",
+  "TacVersion": 1,
+  "UpdateTime": "2026-03-05T00:00:00",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "pvt",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "气矿边1水晶",
+      "Time": 18,
+      "Supply": "14/15",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "1兵营",
+      "Time": 38,
+      "Supply": "15/23",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "农民探路",
+      "Time": 41,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "星空加速基地",
+      "Time": 44,
+      "Supply": "16/23",
+      "Number": 1
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "1气矿",
+      "Time": 48,
+      "Supply": "17/23",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "二基地",
+      "Time": 85,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "控制核心",
+      "Time": 92,
+      "Supply": "20/23",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "恢复农民",
+      "Time": 96,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "2气矿",
+      "Time": 105,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "二矿路口2水晶",
+      "Time": 112,
+      "Supply": "21/23",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "追猎者",
+      "Time": 130,
+      "Supply": "25/31",
+      "Number": 1
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "折跃门科技",
+      "Time": 133,
+      "Supply": "25/31",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "星空加速兵营",
+      "Time": 136,
+      "Supply": "25/31",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "光影议会",
+      "Time": 155,
+      "Supply": "27/31",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "使徒",
+      "Time": 164,
+      "Supply": "30/46",
+      "Number": 1
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "多余农民去二矿 星空加速二基地",
+      "Time": 175,
+      "Supply": "32/46",
+      "Number": 1
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "闪烁科技",
+      "Time": 188,
+      "Supply": "35/46",
+      "Number": 1
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "星空加速光影议会",
+      "Time": 192,
+      "Supply": "35/46",
+      "Number": 1
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "哨兵",
+      "Time": 205,
+      "Supply": "39/46",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "二矿路口兵营",
+      "Time": 210,
+      "Supply": "40/46",
+      "Number": 2
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "三矿预警水晶",
+      "Time": 220,
+      "Supply": "42/46",
+      "Number": 1
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "星空加速光影议会",
+      "Time": 223,
+      "Supply": "42/46",
+      "Number": 1
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "三基地",
+      "Time": 240,
+      "Supply": "45/54",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "哨兵充能幻想侦查",
+      "Time": 243,
+      "Supply": "45/54",
+      "Number": 1
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "追猎者",
+      "Time": 249,
+      "Supply": "48/54",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "主矿2水晶",
+      "Time": 252,
+      "Supply": "48/54",
+      "Number": 1
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "星空加速光影议会",
+      "Time": 255,
+      "Supply": "48/54",
+      "Number": 1
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "追猎者",
+      "Time": 270,
+      "Supply": "58/62",
+      "Number": 3
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "3矿2水晶",
+      "Time": 280,
+      "Supply": "58/60",
+      "Number": 1
+    },
+    {
+      "Step": 30,
+      "ItemAbbr": "机械台 锻炉",
+      "Time": 294,
+      "Supply": "64/70",
+      "Number": 1
+    },
+    {
+      "Step": 31,
+      "ItemAbbr": "追猎者",
+      "Time": 300,
+      "Supply": "69/70",
+      "Number": 3
+    },
+    {
+      "Step": 32,
+      "ItemAbbr": "多余农民去三矿停农民",
+      "Time": 306,
+      "Supply": "70/85",
+      "Number": 1
+    },
+    {
+      "Step": 33,
+      "ItemAbbr": "主矿3水晶",
+      "Time": 310,
+      "Supply": "70/85",
+      "Number": 1
+    },
+    {
+      "Step": 34,
+      "ItemAbbr": "兵营",
+      "Time": 325,
+      "Supply": "70/93",
+      "Number": 6
+    },
+    {
+      "Step": 35,
+      "ItemAbbr": "地面一攻科技",
+      "Time": 350,
+      "Supply": "70/93",
+      "Number": 1
+    },
+    {
+      "Step": 36,
+      "ItemAbbr": "星空加速锻炉",
+      "Time": 353,
+      "Supply": "70/93",
+      "Number": 1
+    },
+    {
+      "Step": 37,
+      "ItemAbbr": "恢复生产农民",
+      "Time": 356,
+      "Supply": "70/93",
+      "Number": 1
+    },
+    {
+      "Step": 38,
+      "ItemAbbr": "脚速科技",
+      "Time": 359,
+      "Supply": "72/93",
+      "Number": 1
+    },
+    {
+      "Step": 39,
+      "ItemAbbr": "水晶塔",
+      "Time": 362,
+      "Supply": "72/93",
+      "Number": 1
+    },
+    {
+      "Step": 40,
+      "ItemAbbr": "棱镜",
+      "Time": 365,
+      "Supply": "75/93",
+      "Number": 1
+    },
+    {
+      "Step": 41,
+      "ItemAbbr": "星空加速机械台",
+      "Time": 368,
+      "Supply": "75/93",
+      "Number": 1
+    },
+    {
+      "Step": 42,
+      "ItemAbbr": "哨兵",
+      "Time": 371,
+      "Supply": "79/93",
+      "Number": 2
+    },
+    {
+      "Step": 43,
+      "ItemAbbr": "水晶塔",
+      "Time": 374,
+      "Supply": "80/93",
+      "Number": 1
+    },
+    {
+      "Step": 44,
+      "ItemAbbr": "持续刷狂热者",
+      "Time": 377,
+      "Supply": "80/93",
+      "Number": 1
+    },
+    {
+      "Step": 45,
+      "ItemAbbr": "水晶塔",
+      "Time": 380,
+      "Supply": "80/93",
+      "Number": 1
+    },
+    {
+      "Step": 46,
+      "ItemAbbr": "停农民，部队出门",
+      "Time": 390,
+      "Supply": "95/117",
+      "Number": 1
+    },
+    {
+      "Step": 47,
+      "ItemAbbr": "水晶塔",
+      "Time": 420,
+      "Supply": "95/117",
+      "Number": 1
+    },
+    {
+      "Step": 48,
+      "ItemAbbr": "120人口，60农民",
+      "Time": 450,
+      "Supply": "120/120",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:18, 气矿边1水晶*1, 14/15\n00:38, 1兵营*1, 15/23\n00:41, 农民探路*1, 16/23\n00:44, 星空加速基地*1, 16/23\n00:48, 1气矿*1, 17/23\n01:25, 二基地*1, 20/23\n01:32, 控制核心*1, 20/23\n01:36, 恢复农民*1, 21/23\n01:45, 2气矿*1, 21/23\n01:52, 二矿路口2水晶*1, 21/23\n02:10, 追猎者*1, 25/31\n02:13, 折跃门科技*1, 25/31\n02:16, 星空加速兵营*1, 25/31\n02:35, 光影议会*1, 27/31\n02:44, 使徒*1, 30/46\n02:55, 多余农民去二矿 星空加速二基地*1, 32/46\n03:08, 闪烁科技*1, 35/46\n03:12, 星空加速光影议会*1, 35/46\n03:25, 哨兵*1, 39/46\n03:30, 二矿路口兵营*2, 40/46\n03:40, 三矿预警水晶*1, 42/46\n03:43, 星空加速光影议会*1, 42/46\n04:00, 三基地*1, 45/54\n04:03, 哨兵充能幻想侦查*1, 45/54\n04:09, 追猎者*1, 48/54\n04:12, 主矿2水晶*1, 48/54\n04:15, 星空加速光影议会*1, 48/54\n04:30, 追猎者*3, 58/62\n04:40, 3矿2水晶*1, 58/60\n04:54, 机械台 锻炉*1, 64/70\n05:00, 追猎者*3, 69/70\n05:06, 多余农民去三矿停农民*1, 70/85\n05:10, 主矿3水晶*1, 70/85\n05:25, 兵营*6, 70/93\n05:50, 地面一攻科技*1, 70/93\n05:53, 星空加速锻炉*1, 70/93\n05:56, 恢复生产农民*1, 70/93\n05:59, 脚速科技*1, 72/93\n06:02, 水晶塔*1, 72/93\n06:05, 棱镜*1, 75/93\n06:08, 星空加速机械台*1, 75/93\n06:11, 哨兵*2, 79/93\n06:14, 水晶塔*1, 80/93\n06:17, 持续刷狂热者*1, 80/93\n06:20, 水晶塔*1, 80/93\n06:30, 停农民，部队出门*1, 95/117\n07:00, 水晶塔*1, 95/117\n07:30, 120人口，60农民*1, 120/120"
+}
