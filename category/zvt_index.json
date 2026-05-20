@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "category": "zvt",
+    "updateTime": "2026-05-20T11:52:01.637133",
+    "totalTactics": 1
+  },
+  "tactics": [
+    {
+      "id": "f1e2d3c4-b5a6-4789-9012-3456789abcde",
+      "name": "7女王5气刺蛇狗毒爆",
+      "author": "ZeratalSky",
+      "matchup": "zvt",
+      "applicableVersion": "5.0.12.91115",
+      "tacticType": "Timeline",
+      "tacVersion": 8,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-05-17T00:00:00",
+      "filePath": "store/ZeratalSky/zvt_速狗速7女王5气刺蛇狗毒爆.json"
+    }
+  ]
+}

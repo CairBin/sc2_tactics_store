@@ -1,0 +1,513 @@
+{
+  "Id": "b2c3d4e5-f6a7-4789-9012-3456789abcde",
+  "Name": "zvp 3女王刺蛇狗",
+  "Author": "ZeratalSky",
+  "Description": "zvp 3女王刺蛇狗",
+  "ApplicableVersion": "5.0.12.91115",
+  "TacticType": "Timeline",
+  "TacVersion": 4,
+  "UpdateTime": "2026-05-17T00:00:00",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "zvp",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "补2农民",
+      "Time": 0,
+      "Supply": "12",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "气矿，农民",
+      "Time": 15,
+      "Supply": "14",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "房子",
+      "Time": 22,
+      "Supply": "15",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "农民去二矿",
+      "Time": 32,
+      "Supply": "15",
+      "Number": 1
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "补1农民",
+      "Time": 39,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "基地",
+      "Time": 47,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "补3农民",
+      "Time": 49,
+      "Supply": "18",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "气矿",
+      "Time": 69,
+      "Supply": "18",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "血池",
+      "Time": 72,
+      "Supply": "17",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "补5农民",
+      "Time": 73,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "调成1农民采气",
+      "Time": 95,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "拉农民去3矿",
+      "Time": 110,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "21人口停农民",
+      "Time": 110,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "两女王，2狗，房子",
+      "Time": 119,
+      "Supply": "26",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "补2农民",
+      "Time": 132,
+      "Supply": "28",
+      "Number": 1
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "狗速",
+      "Time": 140,
+      "Supply": "28",
+      "Number": 1
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "补2农民",
+      "Time": 140,
+      "Supply": "30",
+      "Number": 1
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "双重注卵，三基地",
+      "Time": 157,
+      "Supply": "30",
+      "Number": 1
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "补1农民",
+      "Time": 158,
+      "Supply": "31",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "2小狗",
+      "Time": 164,
+      "Supply": "32",
+      "Number": 1
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "二矿女王",
+      "Time": 167,
+      "Supply": "34",
+      "Number": 1
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "房子",
+      "Time": 171,
+      "Supply": "34",
+      "Number": 1
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "补3农民",
+      "Time": 172,
+      "Supply": "37",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "房子",
+      "Time": 182,
+      "Supply": "37",
+      "Number": 1
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "补7农民",
+      "Time": 188,
+      "Supply": "44",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "注卵菌毯，恢复采气",
+      "Time": 189,
+      "Supply": "44",
+      "Number": 1
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "补2农民",
+      "Time": 198,
+      "Supply": "46",
+      "Number": 1
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "防空",
+      "Time": 199,
+      "Supply": "46",
+      "Number": 1
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "防空",
+      "Time": 206,
+      "Supply": "46",
+      "Number": 1
+    },
+    {
+      "Step": 30,
+      "ItemAbbr": "二本",
+      "Time": 214,
+      "Supply": "46",
+      "Number": 1
+    },
+    {
+      "Step": 31,
+      "ItemAbbr": "补6农民",
+      "Time": 214,
+      "Supply": "52",
+      "Number": 1
+    },
+    {
+      "Step": 32,
+      "ItemAbbr": "注卵，女王去三矿",
+      "Time": 221,
+      "Supply": "52",
+      "Number": 1
+    },
+    {
+      "Step": 33,
+      "ItemAbbr": "气矿",
+      "Time": 226,
+      "Supply": "52",
+      "Number": 1
+    },
+    {
+      "Step": 34,
+      "ItemAbbr": "房子",
+      "Time": 230,
+      "Supply": "52",
+      "Number": 1
+    },
+    {
+      "Step": 35,
+      "ItemAbbr": "补2农民",
+      "Time": 230,
+      "Supply": "54",
+      "Number": 1
+    },
+    {
+      "Step": 36,
+      "ItemAbbr": "补3农民",
+      "Time": 240,
+      "Supply": "57",
+      "Number": 1
+    },
+    {
+      "Step": 37,
+      "ItemAbbr": "房子",
+      "Time": 241,
+      "Supply": "57",
+      "Number": 1
+    },
+    {
+      "Step": 38,
+      "ItemAbbr": "防空",
+      "Time": 243,
+      "Supply": "57",
+      "Number": 1
+    },
+    {
+      "Step": 39,
+      "ItemAbbr": "补7农民",
+      "Time": 249,
+      "Supply": "64",
+      "Number": 1
+    },
+    {
+      "Step": 40,
+      "ItemAbbr": "注卵，满采2气",
+      "Time": 253,
+      "Supply": "64",
+      "Number": 1
+    },
+    {
+      "Step": 41,
+      "ItemAbbr": "6小狗",
+      "Time": 265,
+      "Supply": "67",
+      "Number": 1
+    },
+    {
+      "Step": 42,
+      "ItemAbbr": "补1农民",
+      "Time": 269,
+      "Supply": "68",
+      "Number": 1
+    },
+    {
+      "Step": 43,
+      "ItemAbbr": "四基地，房子",
+      "Time": 272,
+      "Supply": "68",
+      "Number": 1
+    },
+    {
+      "Step": 44,
+      "ItemAbbr": "补4农民",
+      "Time": 273,
+      "Supply": "72",
+      "Number": 1
+    },
+    {
+      "Step": 45,
+      "ItemAbbr": "补7农民",
+      "Time": 279,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 46,
+      "ItemAbbr": "刺蛇塔",
+      "Time": 279,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 47,
+      "ItemAbbr": "房子",
+      "Time": 280,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 48,
+      "ItemAbbr": "注卵菌毯",
+      "Time": 285,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 49,
+      "ItemAbbr": "补1农民",
+      "Time": 293,
+      "Supply": "80",
+      "Number": 1
+    },
+    {
+      "Step": 50,
+      "ItemAbbr": "气矿",
+      "Time": 294,
+      "Supply": "80",
+      "Number": 1
+    },
+    {
+      "Step": 51,
+      "ItemAbbr": "开气",
+      "Time": 296,
+      "Supply": "80",
+      "Number": 1
+    },
+    {
+      "Step": 52,
+      "ItemAbbr": "补1农民",
+      "Time": 297,
+      "Supply": "81",
+      "Number": 1
+    },
+    {
+      "Step": 53,
+      "ItemAbbr": "补4农民",
+      "Time": 299,
+      "Supply": "85",
+      "Number": 1
+    },
+    {
+      "Step": 54,
+      "ItemAbbr": "房子",
+      "Time": 300,
+      "Supply": "85",
+      "Number": 1
+    },
+    {
+      "Step": 55,
+      "ItemAbbr": "补1农民",
+      "Time": 309,
+      "Supply": "86",
+      "Number": 1
+    },
+    {
+      "Step": 56,
+      "ItemAbbr": "刺蛇移速",
+      "Time": 310,
+      "Supply": "86",
+      "Number": 1
+    },
+    {
+      "Step": 57,
+      "ItemAbbr": "补1农民",
+      "Time": 314,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 58,
+      "ItemAbbr": "76人口停农民，房子",
+      "Time": 315,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 59,
+      "ItemAbbr": "注卵菌毯",
+      "Time": 317,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 60,
+      "ItemAbbr": "房子",
+      "Time": 320,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 61,
+      "ItemAbbr": "爆刺蛇",
+      "Time": 326,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 62,
+      "ItemAbbr": "刺蛇",
+      "Time": 333,
+      "Supply": "104",
+      "Number": 1
+    },
+    {
+      "Step": 63,
+      "ItemAbbr": "房子",
+      "Time": 337,
+      "Supply": "104",
+      "Number": 1
+    },
+    {
+      "Step": 64,
+      "ItemAbbr": "刺蛇",
+      "Time": 341,
+      "Supply": "108",
+      "Number": 1
+    },
+    {
+      "Step": 65,
+      "ItemAbbr": "房子",
+      "Time": 348,
+      "Supply": "108",
+      "Number": 1
+    },
+    {
+      "Step": 66,
+      "ItemAbbr": "刺蛇",
+      "Time": 352,
+      "Supply": "112",
+      "Number": 1
+    },
+    {
+      "Step": 67,
+      "ItemAbbr": "房子",
+      "Time": 367,
+      "Supply": "112",
+      "Number": 1
+    },
+    {
+      "Step": 68,
+      "ItemAbbr": "小狗",
+      "Time": 373,
+      "Supply": "120",
+      "Number": 1
+    },
+    {
+      "Step": 69,
+      "ItemAbbr": "刺蛇射程",
+      "Time": 374,
+      "Supply": "120",
+      "Number": 1
+    },
+    {
+      "Step": 70,
+      "ItemAbbr": "刺蛇",
+      "Time": 381,
+      "Supply": "126",
+      "Number": 1
+    },
+    {
+      "Step": 71,
+      "ItemAbbr": "130人口进攻",
+      "Time": 390,
+      "Supply": "130",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:00, 补2农民, 12\n00:15, 气矿，农民, 14\n00:22, 房子, 15\n00:32, 农民去二矿, 15\n00:39, 补1农民, 16\n00:47, 基地, 16\n00:49, 补3农民, 18\n01:09, 气矿, 18\n01:12, 血池, 17\n01:13, 补5农民, 21\n01:35, 调成1民采气, 21\n01:50, 拉农民去3矿, 21\n01:50, 21人口停农民, 21\n01:59, 两女王，2狗，房子, 26\n02:12, 补2农民, 28\n02:20, 狗速, 28\n02:20, 补2农民, 30\n02:37, 双重注卵，三基地, 30\n02:38, 补1农民, 31\n02:44, 2小狗, 32\n02:47, 二矿女王, 34\n02:51, 房子, 34\n02:52, 补3农民, 37\n03:02, 房子, 37\n03:08, 补7农民, 44\n03:09, 注卵菌毯，恢复采气, 44\n03:18, 补2农民, 46\n03:19, 防空, 46\n03:26, 防空, 46\n03:34, 二本, 46\n03:34, 补6农民, 52\n03:41, 注卵，女王去三矿, 52\n03:46, 气矿, 52\n03:50, 房子, 52\n03:50, 补2农民, 54\n04:00, 补3农民, 57\n04:01, 房子, 57\n04:03, 防空, 57\n04:09, 补7农民, 64\n04:13, 注卵，满采2气, 64\n04:25, 6小狗, 67\n04:29, 补1农民, 68\n04:32, 四基地，房子, 68\n04:33, 补4农民, 72\n04:39, 补7农民, 79\n04:39, 刺蛇塔, 79\n04:40, 房子, 79\n04:45, 注卵菌毯, 79\n04:53, 补1农民, 80\n04:54, 气矿, 80\n04:56, 开气, 80\n04:57, 补1农民, 81\n04:59, 补4农民, 85\n05:00, 房子, 85\n05:09, 补1农民, 86\n05:10, 刺蛇移速, 86\n05:14, 补1农民, 88\n05:15, 76人口停农民，房子, 88\n05:17, 注卵菌毯, 88\n05:20, 房子, 88\n05:26, 爆刺蛇, 96\n05:33, 刺蛇, 104\n05:37, 房子, 104\n05:41, 刺蛇, 108\n05:48, 房子, 108\n05:52, 刺蛇, 112\n06:07, 房子, 112\n06:13, 小狗, 120\n06:14, 刺蛇射程, 120\n06:21, 刺蛇, 126\n06:30, 130人口进攻, 130"
+}

@@ -1,0 +1,583 @@
+{
+  "Id": "7da63be5-e56b-8312-c0e6-b0e6495db9a7",
+  "Name": "TvT双气空投坦克接2vs维京",
+  "Author": "ZeratalSky",
+  "Description": "人族内战双气开局，速空投坦克压制并转型双星港爆维京争夺制空权",
+  "ApplicableVersion": "5.0.12.91115",
+  "TacticType": "Timeline",
+  "TacVersion": 2,
+  "UpdateTime": "2026-05-17T00:00:00",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "tvt",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "补2农民",
+      "Time": 0,
+      "Supply": "12",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "补给站",
+      "Time": 17,
+      "Supply": "14",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "补2农民",
+      "Time": 22,
+      "Supply": "14",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "兵营",
+      "Time": 40,
+      "Supply": "15",
+      "Number": 1
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "气矿",
+      "Time": 42,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "补1农民",
+      "Time": 49,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "二气矿",
+      "Time": 52,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "补2农民",
+      "Time": 101,
+      "Supply": "17",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "死神，星轨",
+      "Time": 127,
+      "Supply": "19",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "补给站",
+      "Time": 136,
+      "Supply": "20",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "重工厂",
+      "Time": 140,
+      "Supply": "20",
+      "Number": 1
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "补1农民",
+      "Time": 151,
+      "Supply": "20",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "兵营双倍挂件",
+      "Time": 200,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "补1农民",
+      "Time": 203,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "二基地",
+      "Time": 215,
+      "Supply": "22",
+      "Number": 1
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "补2农民",
+      "Time": 215,
+      "Supply": "22",
+      "Number": 1
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "火车",
+      "Time": 224,
+      "Supply": "23",
+      "Number": 1
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "补给站",
+      "Time": 232,
+      "Supply": "26",
+      "Number": 1
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "2死神",
+      "Time": 236,
+      "Supply": "26",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "补1农民",
+      "Time": 239,
+      "Supply": "28",
+      "Number": 1
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "火车",
+      "Time": 245,
+      "Supply": "29",
+      "Number": 1
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "机场",
+      "Time": 252,
+      "Supply": "31",
+      "Number": 1
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "补2农民",
+      "Time": 252,
+      "Supply": "31",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "重工厂科技挂件，2枪兵",
+      "Time": 308,
+      "Supply": "32",
+      "Number": 1
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "补1农民",
+      "Time": 316,
+      "Supply": "35",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "2枪兵",
+      "Time": 326,
+      "Supply": "36",
+      "Number": 1
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "坦克",
+      "Time": 327,
+      "Supply": "40",
+      "Number": 1
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "二矿星轨",
+      "Time": 330,
+      "Supply": "40",
+      "Number": 1
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "运输机",
+      "Time": 336,
+      "Supply": "38",
+      "Number": 1
+    },
+    {
+      "Step": 30,
+      "ItemAbbr": "补1农民",
+      "Time": 336,
+      "Supply": "38",
+      "Number": 1
+    },
+    {
+      "Step": 31,
+      "ItemAbbr": "2枪兵",
+      "Time": 344,
+      "Supply": "41",
+      "Number": 1
+    },
+    {
+      "Step": 32,
+      "ItemAbbr": "补3农民",
+      "Time": 348,
+      "Supply": "42",
+      "Number": 1
+    },
+    {
+      "Step": 33,
+      "ItemAbbr": "导弹车",
+      "Time": 401,
+      "Supply": "42",
+      "Number": 1
+    },
+    {
+      "Step": 34,
+      "ItemAbbr": "2枪兵，补2农民",
+      "Time": 402,
+      "Supply": "42",
+      "Number": 1
+    },
+    {
+      "Step": 35,
+      "ItemAbbr": "补给站",
+      "Time": 409,
+      "Supply": "48",
+      "Number": 1
+    },
+    {
+      "Step": 36,
+      "ItemAbbr": "维京",
+      "Time": 413,
+      "Supply": "49",
+      "Number": 1
+    },
+    {
+      "Step": 37,
+      "ItemAbbr": "气矿",
+      "Time": 417,
+      "Supply": "52",
+      "Number": 1
+    },
+    {
+      "Step": 38,
+      "ItemAbbr": "枪兵",
+      "Time": 419,
+      "Supply": "52",
+      "Number": 1
+    },
+    {
+      "Step": 39,
+      "ItemAbbr": "补2农民",
+      "Time": 418,
+      "Supply": "52",
+      "Number": 1
+    },
+    {
+      "Step": 40,
+      "ItemAbbr": "枪兵",
+      "Time": 430,
+      "Supply": "54",
+      "Number": 1
+    },
+    {
+      "Step": 41,
+      "ItemAbbr": "补2农民",
+      "Time": 431,
+      "Supply": "54",
+      "Number": 1
+    },
+    {
+      "Step": 42,
+      "ItemAbbr": "坦克",
+      "Time": 435,
+      "Supply": "56",
+      "Number": 1
+    },
+    {
+      "Step": 43,
+      "ItemAbbr": "补给站",
+      "Time": 437,
+      "Supply": "56",
+      "Number": 1
+    },
+    {
+      "Step": 44,
+      "ItemAbbr": "补给站",
+      "Time": 441,
+      "Supply": "61",
+      "Number": 1
+    },
+    {
+      "Step": 45,
+      "ItemAbbr": "补2农民",
+      "Time": 440,
+      "Supply": "61",
+      "Number": 1
+    },
+    {
+      "Step": 46,
+      "ItemAbbr": "气矿",
+      "Time": 453,
+      "Supply": "60",
+      "Number": 1
+    },
+    {
+      "Step": 47,
+      "ItemAbbr": "补1农民",
+      "Time": 452,
+      "Supply": "60",
+      "Number": 1
+    },
+    {
+      "Step": 48,
+      "ItemAbbr": "2维京，枪兵",
+      "Time": 458,
+      "Supply": "60",
+      "Number": 1
+    },
+    {
+      "Step": 49,
+      "ItemAbbr": "补3农民",
+      "Time": 503,
+      "Supply": "65",
+      "Number": 1
+    },
+    {
+      "Step": 50,
+      "ItemAbbr": "枪兵",
+      "Time": 517,
+      "Supply": "65",
+      "Number": 1
+    },
+    {
+      "Step": 51,
+      "ItemAbbr": "坦克",
+      "Time": 518,
+      "Supply": "65",
+      "Number": 1
+    },
+    {
+      "Step": 52,
+      "ItemAbbr": "机场，2补给站，补2农民",
+      "Time": 529,
+      "Supply": "71",
+      "Number": 1
+    },
+    {
+      "Step": 53,
+      "ItemAbbr": "2维京，枪兵",
+      "Time": 530,
+      "Supply": "71",
+      "Number": 1
+    },
+    {
+      "Step": 54,
+      "ItemAbbr": "补2农民",
+      "Time": 546,
+      "Supply": "77",
+      "Number": 1
+    },
+    {
+      "Step": 55,
+      "ItemAbbr": "枪兵",
+      "Time": 553,
+      "Supply": "70",
+      "Number": 1
+    },
+    {
+      "Step": 56,
+      "ItemAbbr": "坦克",
+      "Time": 603,
+      "Supply": "68",
+      "Number": 1
+    },
+    {
+      "Step": 57,
+      "ItemAbbr": "三基地",
+      "Time": 605,
+      "Supply": "72",
+      "Number": 1
+    },
+    {
+      "Step": 58,
+      "ItemAbbr": "3维京，枪兵",
+      "Time": 608,
+      "Supply": "72",
+      "Number": 1
+    },
+    {
+      "Step": 59,
+      "ItemAbbr": "补2农民",
+      "Time": 616,
+      "Supply": "78",
+      "Number": 1
+    },
+    {
+      "Step": 60,
+      "ItemAbbr": "枪兵",
+      "Time": 628,
+      "Supply": "80",
+      "Number": 1
+    },
+    {
+      "Step": 61,
+      "ItemAbbr": "补给站，补2农民",
+      "Time": 630,
+      "Supply": "80",
+      "Number": 1
+    },
+    {
+      "Step": 62,
+      "ItemAbbr": "坦克",
+      "Time": 635,
+      "Supply": "83",
+      "Number": 1
+    },
+    {
+      "Step": 63,
+      "ItemAbbr": "2维京",
+      "Time": 638,
+      "Supply": "83",
+      "Number": 1
+    },
+    {
+      "Step": 64,
+      "ItemAbbr": "补2农民",
+      "Time": 641,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 65,
+      "ItemAbbr": "枪兵",
+      "Time": 646,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 66,
+      "ItemAbbr": "维京",
+      "Time": 651,
+      "Supply": "93",
+      "Number": 1
+    },
+    {
+      "Step": 67,
+      "ItemAbbr": "2补给站",
+      "Time": 653,
+      "Supply": "93",
+      "Number": 1
+    },
+    {
+      "Step": 68,
+      "ItemAbbr": "补2农民",
+      "Time": 653,
+      "Supply": "95",
+      "Number": 1
+    },
+    {
+      "Step": 69,
+      "ItemAbbr": "枪兵",
+      "Time": 704,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 70,
+      "ItemAbbr": "补2农民",
+      "Time": 705,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 71,
+      "ItemAbbr": "2维京",
+      "Time": 708,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 72,
+      "ItemAbbr": "坦克，四基地",
+      "Time": 717,
+      "Supply": "100",
+      "Number": 1
+    },
+    {
+      "Step": 73,
+      "ItemAbbr": "维京，枪兵",
+      "Time": 721,
+      "Supply": "100",
+      "Number": 1
+    },
+    {
+      "Step": 74,
+      "ItemAbbr": "补2农民",
+      "Time": 728,
+      "Supply": "98",
+      "Number": 1
+    },
+    {
+      "Step": 75,
+      "ItemAbbr": "2维京，枪兵",
+      "Time": 738,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 76,
+      "ItemAbbr": "补2农民",
+      "Time": 740,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 77,
+      "ItemAbbr": "气矿，2补给站",
+      "Time": 743,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 78,
+      "ItemAbbr": "坦克",
+      "Time": 749,
+      "Supply": "102",
+      "Number": 1
+    },
+    {
+      "Step": 79,
+      "ItemAbbr": "补2农民",
+      "Time": 752,
+      "Supply": "106",
+      "Number": 1
+    },
+    {
+      "Step": 80,
+      "ItemAbbr": "枪兵",
+      "Time": 757,
+      "Supply": "106",
+      "Number": 1
+    },
+    {
+      "Step": 81,
+      "ItemAbbr": "补2农民",
+      "Time": 809,
+      "Supply": "107",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:00, 补2农民, 12\n00:17, 补给站, 14\n00:22, 补2农民, 14\n00:40, 兵营, 15\n00:42, 气矿, 16\n00:49, 补1农民, 16\n00:52, 二气矿, 16\n01:01, 补2农民, 17\n01:27, 死神，星轨, 19\n01:36, 补给站, 20\n01:40, 重工厂, 20\n01:51, 补1农民, 20\n02:00, 兵营双倍挂件, 21\n02:03, 补1农民, 21\n02:15, 二基地, 22\n02:15, 补2农民, 22\n02:24, 火车, 23\n02:32, 补给站, 26\n02:36, 2死神, 26\n02:39, 补1农民, 28\n02:45, 火车, 29\n02:52, 机场, 31\n02:52, 补2农民, 31\n03:08, 重工厂科技挂件，2枪兵, 32\n03:16, 补1农民, 35\n03:26, 2枪兵, 36\n03:27, 坦克, 40\n03:30, 二矿星轨, 40\n03:36, 运输机, 38\n03:36, 补1农民, 38\n03:44, 2枪兵, 41\n03:48, 补3农民, 42\n04:01, 导弹车, 42\n04:02, 2枪兵，补2农民, 42\n04:09, 补给站, 48\n04:13, 维京, 49\n04:17, 气矿, 52\n04:19, 枪兵, 52\n04:18, 补2农民, 52\n04:30, 枪兵, 54\n04:31, 补2农民, 54\n04:35, 坦克, 56\n04:37, 补给站, 56\n04:41, 补给站, 61\n04:40, 补2农民, 61\n04:53, 气矿, 60\n04:52, 补1农民, 60\n04:58, 2维京，枪兵, 60\n05:03, 补3农民, 65\n05:17, 枪兵, 65\n05:18, 坦克, 65\n05:29, 机场，2补给站，补2农民, 71\n05:30, 2维京，枪兵, 71\n05:46, 补2农民, 77\n05:53, 枪兵, 70\n06:03, 坦克, 68\n06:05, 三基地, 72\n06:08, 3维京，枪兵, 72\n06:16, 补2农民, 78\n06:28, 枪兵, 80\n06:30, 补给站，补2农民, 80\n06:35, 坦克, 83\n06:38, 2维京, 83\n06:41, 补2农民, 88\n06:46, 枪兵, 88\n06:51, 维京, 93\n06:53, 2补给站, 93\n06:53, 补2农民, 95\n07:04, 枪兵, 96\n07:05, 补2农民, 96\n07:08, 2维京, 96\n07:17, 坦克，四基地, 100\n07:21, 维京，枪兵, 100\n07:28, 补2农民, 98\n07:38, 2维京，枪兵, 96\n07:40, 补2农民, 96\n07:43, 气矿，2补给站, 96\n07:49, 坦克, 102\n07:52, 补2农民, 106\n07:57, 枪兵, 106\n08:09, 补2农民, 107"
+}

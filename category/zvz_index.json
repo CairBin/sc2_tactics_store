@@ -1,8 +1,8 @@
 {
   "meta": {
     "category": "zvz",
-    "updateTime": "2026-03-07T04:07:49.199642",
-    "totalTactics": 2
+    "updateTime": "2026-05-20T11:52:01.626103",
+    "totalTactics": 3
   },
   "tactics": [
     {
@@ -30,6 +30,19 @@
       "modVersion": 100,
       "updateTime": "2026-03-06T17:51:39",
       "filePath": "store/Crush/ZVZ_两矿一攻蟑螂.json"
+    },
+    {
+      "id": "d3e4f5a6-b7c8-4789-9012-3456789abcde",
+      "name": "ZVZ堵口蟑螂",
+      "author": "ZeratalSky",
+      "matchup": "zvz",
+      "applicableVersion": "5.0.12.91115",
+      "tacticType": "Timeline",
+      "tacVersion": 6,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-05-17T00:00:00",
+      "filePath": "store/ZeratalSky/zvz_堵口蟑螂.json"
     }
   ]
 }

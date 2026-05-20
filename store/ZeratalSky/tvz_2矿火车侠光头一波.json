@@ -1,0 +1,933 @@
+{
+  "Id": "f9e8d7c6-b5a4-3210-9876-543210abcdef",
+  "Name": "TvZ 火车侠光头一波",
+  "Author": "ZeratalSky",
+  "Description": "人族针对虫族的火车侠与劫掠者（光头）一波前压战术",
+  "ApplicableVersion": "5.0.12.91115",
+  "TacticType": "Timeline",
+  "TacVersion": 3,
+  "UpdateTime": "2026-05-17T00:00:00",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "tvz",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "补2农民",
+      "Time": 0,
+      "Supply": "12",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "路口补给站",
+      "Time": 17,
+      "Supply": "14",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "补2农民",
+      "Time": 22,
+      "Supply": "14",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "兵营",
+      "Time": 40,
+      "Supply": "15",
+      "Number": 1
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "气矿",
+      "Time": 43,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "补3农民",
+      "Time": 49,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "满采一气",
+      "Time": 66,
+      "Supply": "18",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "兵营农民探路，19农民去2矿",
+      "Time": 80,
+      "Supply": "19",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "死神，星轨",
+      "Time": 87,
+      "Supply": "19",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "二基地，拉农民去主矿口",
+      "Time": 99,
+      "Supply": "20",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "补给站",
+      "Time": 106,
+      "Supply": "20",
+      "Number": 1
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "补1农民，矿骡",
+      "Time": 111,
+      "Supply": "20",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "枪兵",
+      "Time": 119,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "补1农民",
+      "Time": 123,
+      "Supply": "22",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "路口农民造重工厂",
+      "Time": 130,
+      "Supply": "23",
+      "Number": 1
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "补1农民",
+      "Time": 135,
+      "Supply": "23",
+      "Number": 1
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "兵营双倍挂件，二气矿",
+      "Time": 140,
+      "Supply": "24",
+      "Number": 1
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "补2农民",
+      "Time": 147,
+      "Supply": "24",
+      "Number": 1
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "二矿星轨，补1农民，满采2气",
+      "Time": 171,
+      "Supply": "26",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "机场",
+      "Time": 177,
+      "Supply": "26",
+      "Number": 1
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "交换兵营重工厂",
+      "Time": 180,
+      "Supply": "27",
+      "Number": 1
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "补1农民",
+      "Time": 183,
+      "Supply": "27",
+      "Number": 1
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "兵营科技挂件",
+      "Time": 185,
+      "Supply": "27",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "2火车",
+      "Time": 186,
+      "Supply": "27",
+      "Number": 1
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "补给站",
+      "Time": 188,
+      "Supply": "27",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "光头，震撼弹，补2农民",
+      "Time": 206,
+      "Supply": "34",
+      "Number": 1
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "2火车",
+      "Time": 208,
+      "Supply": "34",
+      "Number": 1
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "维京",
+      "Time": 214,
+      "Supply": "40",
+      "Number": 1
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "补给站",
+      "Time": 221,
+      "Supply": "42",
+      "Number": 1
+    },
+    {
+      "Step": 30,
+      "ItemAbbr": "光头",
+      "Time": 227,
+      "Supply": "42",
+      "Number": 1
+    },
+    {
+      "Step": 31,
+      "ItemAbbr": "2火车，补4农民",
+      "Time": 229,
+      "Supply": "44",
+      "Number": 1
+    },
+    {
+      "Step": 32,
+      "ItemAbbr": "补给站",
+      "Time": 244,
+      "Supply": "50",
+      "Number": 1
+    },
+    {
+      "Step": 33,
+      "ItemAbbr": "运输机",
+      "Time": 249,
+      "Supply": "50",
+      "Number": 1
+    },
+    {
+      "Step": 34,
+      "ItemAbbr": "光头",
+      "Time": 252,
+      "Supply": "54",
+      "Number": 1
+    },
+    {
+      "Step": 35,
+      "ItemAbbr": "军械库",
+      "Time": 253,
+      "Supply": "54",
+      "Number": 1
+    },
+    {
+      "Step": 36,
+      "ItemAbbr": "补1农民",
+      "Time": 254,
+      "Supply": "54",
+      "Number": 1
+    },
+    {
+      "Step": 37,
+      "ItemAbbr": "2火车",
+      "Time": 260,
+      "Supply": "58",
+      "Number": 1
+    },
+    {
+      "Step": 38,
+      "ItemAbbr": "兴奋剂",
+      "Time": 263,
+      "Supply": "58",
+      "Number": 1
+    },
+    {
+      "Step": 39,
+      "ItemAbbr": "补给站",
+      "Time": 274,
+      "Supply": "61",
+      "Number": 1
+    },
+    {
+      "Step": 40,
+      "ItemAbbr": "光头",
+      "Time": 276,
+      "Supply": "61",
+      "Number": 1
+    },
+    {
+      "Step": 41,
+      "ItemAbbr": "补给站",
+      "Time": 279,
+      "Supply": "63",
+      "Number": 1
+    },
+    {
+      "Step": 42,
+      "ItemAbbr": "2火车，补2农民",
+      "Time": 284,
+      "Supply": "63",
+      "Number": 1
+    },
+    {
+      "Step": 43,
+      "ItemAbbr": "运输机装3光头出门",
+      "Time": 290,
+      "Supply": "63",
+      "Number": 1
+    },
+    {
+      "Step": 44,
+      "ItemAbbr": "运输机",
+      "Time": 295,
+      "Supply": "69",
+      "Number": 1
+    },
+    {
+      "Step": 45,
+      "ItemAbbr": "2补给站",
+      "Time": 296,
+      "Supply": "69",
+      "Number": 1
+    },
+    {
+      "Step": 46,
+      "ItemAbbr": "枪兵",
+      "Time": 304,
+      "Supply": "71",
+      "Number": 1
+    },
+    {
+      "Step": 47,
+      "ItemAbbr": "2火车",
+      "Time": 305,
+      "Supply": "71",
+      "Number": 1
+    },
+    {
+      "Step": 48,
+      "ItemAbbr": "补3农民",
+      "Time": 307,
+      "Supply": "71",
+      "Number": 1
+    },
+    {
+      "Step": 49,
+      "ItemAbbr": "70人口进攻",
+      "Time": 310,
+      "Supply": "71",
+      "Number": 1
+    },
+    {
+      "Step": 50,
+      "ItemAbbr": "光头",
+      "Time": 322,
+      "Supply": "62",
+      "Number": 1
+    },
+    {
+      "Step": 51,
+      "ItemAbbr": "补3农民",
+      "Time": 325,
+      "Supply": "62",
+      "Number": 1
+    },
+    {
+      "Step": 52,
+      "ItemAbbr": "2火车",
+      "Time": 327,
+      "Supply": "62",
+      "Number": 1
+    },
+    {
+      "Step": 53,
+      "ItemAbbr": "光头，运输机",
+      "Time": 344,
+      "Supply": "66",
+      "Number": 1
+    },
+    {
+      "Step": 54,
+      "ItemAbbr": "2火车",
+      "Time": 348,
+      "Supply": "66",
+      "Number": 1
+    },
+    {
+      "Step": 55,
+      "ItemAbbr": "补2农民",
+      "Time": 350,
+      "Supply": "66",
+      "Number": 1
+    },
+    {
+      "Step": 56,
+      "ItemAbbr": "三基地",
+      "Time": 361,
+      "Supply": "62",
+      "Number": 1
+    },
+    {
+      "Step": 57,
+      "ItemAbbr": "补1农民",
+      "Time": 362,
+      "Supply": "62",
+      "Number": 1
+    },
+    {
+      "Step": 58,
+      "ItemAbbr": "盾牌",
+      "Time": 363,
+      "Supply": "62",
+      "Number": 1
+    },
+    {
+      "Step": 59,
+      "ItemAbbr": "补1农民",
+      "Time": 364,
+      "Supply": "62",
+      "Number": 1
+    },
+    {
+      "Step": 60,
+      "ItemAbbr": "光头",
+      "Time": 365,
+      "Supply": "63",
+      "Number": 1
+    },
+    {
+      "Step": 61,
+      "ItemAbbr": "兵营",
+      "Time": 367,
+      "Supply": "63",
+      "Number": 1
+    },
+    {
+      "Step": 62,
+      "ItemAbbr": "2火车",
+      "Time": 370,
+      "Supply": "63",
+      "Number": 1
+    },
+    {
+      "Step": 63,
+      "ItemAbbr": "补1农民",
+      "Time": 374,
+      "Supply": "69",
+      "Number": 1
+    },
+    {
+      "Step": 64,
+      "ItemAbbr": "运输机，补1农民",
+      "Time": 378,
+      "Supply": "69",
+      "Number": 1
+    },
+    {
+      "Step": 65,
+      "ItemAbbr": "兵营",
+      "Time": 379,
+      "Supply": "72",
+      "Number": 1
+    },
+    {
+      "Step": 66,
+      "ItemAbbr": "2气矿",
+      "Time": 383,
+      "Supply": "72",
+      "Number": 1
+    },
+    {
+      "Step": 67,
+      "ItemAbbr": "光头",
+      "Time": 386,
+      "Supply": "73",
+      "Number": 1
+    },
+    {
+      "Step": 68,
+      "ItemAbbr": "工程站",
+      "Time": 387,
+      "Supply": "73",
+      "Number": 1
+    },
+    {
+      "Step": 69,
+      "ItemAbbr": "工程站，补1农民",
+      "Time": 388,
+      "Supply": "73",
+      "Number": 1
+    },
+    {
+      "Step": 70,
+      "ItemAbbr": "补1农民",
+      "Time": 391,
+      "Supply": "76",
+      "Number": 1
+    },
+    {
+      "Step": 71,
+      "ItemAbbr": "2火车",
+      "Time": 396,
+      "Supply": "76",
+      "Number": 1
+    },
+    {
+      "Step": 72,
+      "ItemAbbr": "补给站",
+      "Time": 400,
+      "Supply": "81",
+      "Number": 1
+    },
+    {
+      "Step": 73,
+      "ItemAbbr": "补1农民",
+      "Time": 402,
+      "Supply": "81",
+      "Number": 1
+    },
+    {
+      "Step": 74,
+      "ItemAbbr": "2火车",
+      "Time": 417,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 75,
+      "ItemAbbr": "光头",
+      "Time": 418,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 76,
+      "ItemAbbr": "运输机",
+      "Time": 430,
+      "Supply": "83",
+      "Number": 1
+    },
+    {
+      "Step": 77,
+      "ItemAbbr": "兵营双倍挂件，兵营科技挂件",
+      "Time": 432,
+      "Supply": "83",
+      "Number": 1
+    },
+    {
+      "Step": 78,
+      "ItemAbbr": "星轨",
+      "Time": 433,
+      "Supply": "83",
+      "Number": 1
+    },
+    {
+      "Step": 79,
+      "ItemAbbr": "兵营",
+      "Time": 434,
+      "Supply": "83",
+      "Number": 1
+    },
+    {
+      "Step": 80,
+      "ItemAbbr": "步兵一攻一防",
+      "Time": 435,
+      "Supply": "83",
+      "Number": 1
+    },
+    {
+      "Step": 81,
+      "ItemAbbr": "兵营",
+      "Time": 436,
+      "Supply": "84",
+      "Number": 1
+    },
+    {
+      "Step": 82,
+      "ItemAbbr": "2火车，枪兵",
+      "Time": 439,
+      "Supply": "84",
+      "Number": 1
+    },
+    {
+      "Step": 83,
+      "ItemAbbr": "补1农民",
+      "Time": 444,
+      "Supply": "87",
+      "Number": 1
+    },
+    {
+      "Step": 84,
+      "ItemAbbr": "光头",
+      "Time": 457,
+      "Supply": "82",
+      "Number": 1
+    },
+    {
+      "Step": 85,
+      "ItemAbbr": "枪兵",
+      "Time": 458,
+      "Supply": "82",
+      "Number": 1
+    },
+    {
+      "Step": 86,
+      "ItemAbbr": "2火车，运输机",
+      "Time": 460,
+      "Supply": "82",
+      "Number": 1
+    },
+    {
+      "Step": 87,
+      "ItemAbbr": "补2农民",
+      "Time": 464,
+      "Supply": "89",
+      "Number": 1
+    },
+    {
+      "Step": 88,
+      "ItemAbbr": "枪兵，星轨",
+      "Time": 469,
+      "Supply": "89",
+      "Number": 1
+    },
+    {
+      "Step": 89,
+      "ItemAbbr": "枪兵",
+      "Time": 476,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 90,
+      "ItemAbbr": "光头",
+      "Time": 479,
+      "Supply": "81",
+      "Number": 1
+    },
+    {
+      "Step": 91,
+      "ItemAbbr": "2火车",
+      "Time": 481,
+      "Supply": "81",
+      "Number": 1
+    },
+    {
+      "Step": 92,
+      "ItemAbbr": "枪兵",
+      "Time": 485,
+      "Supply": "81",
+      "Number": 1
+    },
+    {
+      "Step": 93,
+      "ItemAbbr": "枪兵",
+      "Time": 488,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 94,
+      "ItemAbbr": "补3农民",
+      "Time": 489,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 95,
+      "ItemAbbr": "运输机",
+      "Time": 490,
+      "Supply": "88",
+      "Number": 1
+    },
+    {
+      "Step": 96,
+      "ItemAbbr": "枪兵",
+      "Time": 494,
+      "Supply": "91",
+      "Number": 1
+    },
+    {
+      "Step": 97,
+      "ItemAbbr": "光头",
+      "Time": 500,
+      "Supply": "91",
+      "Number": 1
+    },
+    {
+      "Step": 98,
+      "ItemAbbr": "补4农民",
+      "Time": 502,
+      "Supply": "91",
+      "Number": 1
+    },
+    {
+      "Step": 99,
+      "ItemAbbr": "2火车",
+      "Time": 503,
+      "Supply": "91",
+      "Number": 1
+    },
+    {
+      "Step": 100,
+      "ItemAbbr": "光头，兵营双倍挂件",
+      "Time": 512,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 101,
+      "ItemAbbr": "兵营双倍挂件",
+      "Time": 513,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 102,
+      "ItemAbbr": "四基地",
+      "Time": 520,
+      "Supply": "97",
+      "Number": 1
+    },
+    {
+      "Step": 103,
+      "ItemAbbr": "光头",
+      "Time": 521,
+      "Supply": "98",
+      "Number": 1
+    },
+    {
+      "Step": 104,
+      "ItemAbbr": "军械库",
+      "Time": 523,
+      "Supply": "98",
+      "Number": 1
+    },
+    {
+      "Step": 105,
+      "ItemAbbr": "星港双倍挂件，2火车",
+      "Time": 524,
+      "Supply": "98",
+      "Number": 1
+    },
+    {
+      "Step": 106,
+      "ItemAbbr": "光头",
+      "Time": 533,
+      "Supply": "104",
+      "Number": 1
+    },
+    {
+      "Step": 107,
+      "ItemAbbr": "枪兵",
+      "Time": 537,
+      "Supply": "100",
+      "Number": 1
+    },
+    {
+      "Step": 108,
+      "ItemAbbr": "补3农民",
+      "Time": 540,
+      "Supply": "100",
+      "Number": 1
+    },
+    {
+      "Step": 109,
+      "ItemAbbr": "光头",
+      "Time": 543,
+      "Supply": "97",
+      "Number": 1
+    },
+    {
+      "Step": 110,
+      "ItemAbbr": "2气矿",
+      "Time": 544,
+      "Supply": "97",
+      "Number": 1
+    },
+    {
+      "Step": 111,
+      "ItemAbbr": "2火车，重工厂",
+      "Time": 546,
+      "Supply": "97",
+      "Number": 1
+    },
+    {
+      "Step": 112,
+      "ItemAbbr": "2枪兵",
+      "Time": 552,
+      "Supply": "99",
+      "Number": 1
+    },
+    {
+      "Step": 113,
+      "ItemAbbr": "2枪兵，兵营",
+      "Time": 553,
+      "Supply": "99",
+      "Number": 1
+    },
+    {
+      "Step": 114,
+      "ItemAbbr": "枪兵",
+      "Time": 554,
+      "Supply": "99",
+      "Number": 1
+    },
+    {
+      "Step": 115,
+      "ItemAbbr": "2兵营，枪兵",
+      "Time": 555,
+      "Supply": "99",
+      "Number": 1
+    },
+    {
+      "Step": 116,
+      "ItemAbbr": "光头",
+      "Time": 564,
+      "Supply": "109",
+      "Number": 1
+    },
+    {
+      "Step": 117,
+      "ItemAbbr": "火车",
+      "Time": 567,
+      "Supply": "109",
+      "Number": 1
+    },
+    {
+      "Step": 118,
+      "ItemAbbr": "补2农民",
+      "Time": 568,
+      "Supply": "109",
+      "Number": 1
+    },
+    {
+      "Step": 119,
+      "ItemAbbr": "3枪兵",
+      "Time": 570,
+      "Supply": "109",
+      "Number": 1
+    },
+    {
+      "Step": 120,
+      "ItemAbbr": "2枪兵",
+      "Time": 571,
+      "Supply": "109",
+      "Number": 1
+    },
+    {
+      "Step": 121,
+      "ItemAbbr": "枪兵",
+      "Time": 573,
+      "Supply": "112",
+      "Number": 1
+    },
+    {
+      "Step": 122,
+      "ItemAbbr": "光头",
+      "Time": 576,
+      "Supply": "112",
+      "Number": 1
+    },
+    {
+      "Step": 123,
+      "ItemAbbr": "补2农民",
+      "Time": 577,
+      "Supply": "96",
+      "Number": 1
+    },
+    {
+      "Step": 124,
+      "ItemAbbr": "光头",
+      "Time": 585,
+      "Supply": "98",
+      "Number": 1
+    },
+    {
+      "Step": 125,
+      "ItemAbbr": "4枪兵",
+      "Time": 588,
+      "Supply": "98",
+      "Number": 1
+    },
+    {
+      "Step": 126,
+      "ItemAbbr": "运输机",
+      "Time": 591,
+      "Supply": "98",
+      "Number": 1
+    },
+    {
+      "Step": 127,
+      "ItemAbbr": "补2农民",
+      "Time": 592,
+      "Supply": "104",
+      "Number": 1
+    },
+    {
+      "Step": 128,
+      "ItemAbbr": "光头，2枪兵",
+      "Time": 598,
+      "Supply": "104",
+      "Number": 1
+    },
+    {
+      "Step": 129,
+      "ItemAbbr": "感应塔",
+      "Time": 599,
+      "Supply": "104",
+      "Number": 1
+    },
+    {
+      "Step": 130,
+      "ItemAbbr": "补1农民",
+      "Time": 600,
+      "Supply": "109",
+      "Number": 1
+    },
+    {
+      "Step": 131,
+      "ItemAbbr": "2地雷",
+      "Time": 601,
+      "Supply": "109",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:00, 补2农民, 12\n00:17, 路口补给站, 14\n00:22, 补2农民, 14\n00:40, 兵营, 15\n00:43, 气矿, 16\n00:49, 补3农民, 16\n01:06, 满采一气, 18\n01:20, 兵营农民探路，19农民去2矿, 19\n01:27, 死神，星轨, 19\n01:39, 二基地，拉农民去主矿口, 20\n01:46, 补给站, 20\n01:51, 补1农民，矿骡, 20\n01:59, 枪兵, 21\n02:03, 补1农民, 22\n02:10, 路口农民造重工厂, 23\n02:15, 补1农民, 23\n02:20, 兵营双倍挂件，二气矿, 24\n02:27, 补2农民, 24\n02:51, 二矿星轨，补1农民，满采2气, 26\n02:57, 机场, 26\n03:00, 交换兵营重工厂, 27\n03:03, 补1农民, 27\n03:05, 兵营科技挂件, 27\n03:06, 2火车, 27\n03:08, 补给站, 27\n03:26, 光头，震撼弹，补2农民, 34\n03:28, 2火车, 34\n03:34, 维京, 40\n03:41, 补给站, 42\n03:47, 光头, 42\n03:49, 2火车，补4农民, 44\n04:04, 补给站, 50\n04:09, 运输机, 50\n04:12, 光头, 54\n04:13, 军械库, 54\n04:14, 补1农民, 54\n04:20, 2火车, 58\n04:23, 兴奋剂, 58\n04:34, 补给站, 61\n04:36, 光头, 61\n04:39, 补给站, 63\n04:44, 2火车，补2农民, 63\n04:50, 运输机装3光头出门, 63\n04:55, 运输机, 69\n04:56, 2补给站, 69\n05:04, 枪兵, 71\n05:05, 2火车, 71\n05:07, 补3农民, 71\n05:10, 70人口进攻, 71\n05:22, 光头, 62\n05:25, 补3农民, 62\n05:27, 2火车, 62\n05:44, 光头，运输机, 66\n05:48, 2火车, 66\n05:50, 补2农民, 66\n06:01, 三基地, 62\n06:02, 补1农民, 62\n06:03, 盾牌, 62\n06:04, 补1农民, 62\n06:05, 光头, 63\n06:07, 兵营, 63\n06:10, 2火车, 63\n06:14, 补1农民, 69\n06:18, 运输机，补1农民, 69\n06:19, 兵营, 72\n06:23, 2气矿, 72\n06:26, 光头, 73\n06:27, 工程站, 73\n06:28, 工程站，补1农民, 73\n06:31, 补1农民, 76\n06:36, 2火车, 76\n06:40, 补给站, 81\n06:42, 补1农民, 81\n06:57, 2火车, 79\n06:58, 光头, 79\n07:10, 运输机, 83\n07:12, 兵营双倍挂件，兵营科技挂件, 83\n07:13, 星轨, 83\n07:14, 兵营, 83\n07:15, 步兵一攻一防, 83\n07:16, 兵营, 84\n07:19, 2火车，枪兵, 84\n07:24, 补1农民, 87\n07:37, 光头, 82\n07:38, 枪兵, 82\n07:40, 2火车，运输机, 82\n07:44, 补2农民, 89\n07:49, 枪兵，星轨, 89\n07:56, 枪兵, 88\n07:59, 光头, 81\n08:01, 2火车, 81\n08:05, 枪兵, 81\n08:08, 枪兵, 88\n08:09, 补3农民, 88\n08:10, 运输机, 88\n08:14, 枪兵, 91\n08:20, 光头, 91\n08:22, 补4农民, 91\n08:23, 2火车, 91\n08:32, 光头，兵营双倍挂件, 96\n08:33, 兵营双倍挂件, 96\n08:40, 四基地, 97\n08:41, 光头, 98\n08:43, 军械库, 98\n08:44, 星港双倍挂件，2火车, 98\n08:53, 光头, 104\n08:57, 枪兵, 100\n09:00, 补3农民, 100\n09:03, 光头, 97\n09:04, 2气矿, 97\n09:06, 2火车，重工厂, 97\n09:12, 2枪兵, 99\n09:13, 2枪兵，兵营, 99\n09:14, 枪兵, 99\n09:15, 2兵营，枪兵, 99\n09:24, 光头, 109\n09:27, 火车, 109\n09:28, 补2农民, 109\n09:30, 3枪兵, 109\n09:31, 2枪兵, 109\n09:33, 枪兵, 112\n09:36, 光头, 112\n09:37, 补2农民, 96\n09:45, 光头, 98\n09:48, 4枪兵, 98\n09:51, 运输机, 98\n09:52, 补2农民, 104\n09:58, 光头，2枪兵, 104\n09:59, 感应塔, 104\n10:00, 补1农民, 109\n10:01, 2地雷, 109"
+}

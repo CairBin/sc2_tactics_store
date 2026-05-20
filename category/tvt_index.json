@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "category": "tvt",
+    "updateTime": "2026-05-20T11:52:01.633136",
+    "totalTactics": 1
+  },
+  "tactics": [
+    {
+      "id": "7da63be5-e56b-8312-c0e6-b0e6495db9a7",
+      "name": "TvT双气空投坦克接2vs维京",
+      "author": "ZeratalSky",
+      "matchup": "tvt",
+      "applicableVersion": "5.0.12.91115",
+      "tacticType": "Timeline",
+      "tacVersion": 2,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-05-17T00:00:00",
+      "filePath": "store/ZeratalSky/tvt_双气空投坦克接2vs维京.json"
+    }
+  ]
+}

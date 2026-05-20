@@ -1,0 +1,520 @@
+{
+  "Id": "a1b2c3d4-e5f6-4789-9012-3456789abcde",
+  "Name": "5女王科技蟑螂",
+  "Author": "ZeratalSky",
+  "Description": "5女王科技蟑螂",
+  "ApplicableVersion": "5.0.12.91115",
+  "TacticType": "Timeline",
+  "TacVersion": 1,
+  "UpdateTime": "2026-05-17T00:00:00",
+  "ModName": "Scii",
+  "ModVersion": 100,
+  "Matchup": "zvp",
+  "Actions": [
+    {
+      "Step": 1,
+      "ItemAbbr": "补2农民",
+      "Time": 0,
+      "Supply": "12",
+      "Number": 1
+    },
+    {
+      "Step": 2,
+      "ItemAbbr": "气矿，农民",
+      "Time": 14,
+      "Supply": "14",
+      "Number": 1
+    },
+    {
+      "Step": 3,
+      "ItemAbbr": "房子",
+      "Time": 21,
+      "Supply": "15",
+      "Number": 1
+    },
+    {
+      "Step": 4,
+      "ItemAbbr": "农民去2矿",
+      "Time": 32,
+      "Supply": "15",
+      "Number": 1
+    },
+    {
+      "Step": 5,
+      "ItemAbbr": "补1农民",
+      "Time": 40,
+      "Supply": "15",
+      "Number": 1
+    },
+    {
+      "Step": 6,
+      "ItemAbbr": "二基地",
+      "Time": 47,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 7,
+      "ItemAbbr": "补3农民",
+      "Time": 48,
+      "Supply": "16",
+      "Number": 1
+    },
+    {
+      "Step": 8,
+      "ItemAbbr": "气矿",
+      "Time": 68,
+      "Supply": "18",
+      "Number": 1
+    },
+    {
+      "Step": 9,
+      "ItemAbbr": "血池",
+      "Time": 72,
+      "Supply": "17",
+      "Number": 1
+    },
+    {
+      "Step": 10,
+      "ItemAbbr": "补5农民",
+      "Time": 73,
+      "Supply": "17",
+      "Number": 1
+    },
+    {
+      "Step": 11,
+      "ItemAbbr": "满采一气",
+      "Time": 94,
+      "Supply": "18",
+      "Number": 1
+    },
+    {
+      "Step": 12,
+      "ItemAbbr": "两女王，2狗，房子",
+      "Time": 119,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 13,
+      "ItemAbbr": "停气",
+      "Time": 130,
+      "Supply": "21",
+      "Number": 1
+    },
+    {
+      "Step": 14,
+      "ItemAbbr": "狗速",
+      "Time": 133,
+      "Supply": "27",
+      "Number": 1
+    },
+    {
+      "Step": 15,
+      "ItemAbbr": "补4农民",
+      "Time": 133,
+      "Supply": "27",
+      "Number": 1
+    },
+    {
+      "Step": 16,
+      "ItemAbbr": "农民去3三矿",
+      "Time": 142,
+      "Supply": "27",
+      "Number": 1
+    },
+    {
+      "Step": 17,
+      "ItemAbbr": "三基地",
+      "Time": 154,
+      "Supply": "30",
+      "Number": 1
+    },
+    {
+      "Step": 18,
+      "ItemAbbr": "补1农民",
+      "Time": 156,
+      "Supply": "30",
+      "Number": 1
+    },
+    {
+      "Step": 19,
+      "ItemAbbr": "双重注卵",
+      "Time": 157,
+      "Supply": "30",
+      "Number": 1
+    },
+    {
+      "Step": 20,
+      "ItemAbbr": "2狗",
+      "Time": 159,
+      "Supply": "30",
+      "Number": 1
+    },
+    {
+      "Step": 21,
+      "ItemAbbr": "女王",
+      "Time": 165,
+      "Supply": "31",
+      "Number": 1
+    },
+    {
+      "Step": 22,
+      "ItemAbbr": "房子",
+      "Time": 172,
+      "Supply": "31",
+      "Number": 1
+    },
+    {
+      "Step": 23,
+      "ItemAbbr": "补3农民",
+      "Time": 172,
+      "Supply": "33",
+      "Number": 1
+    },
+    {
+      "Step": 24,
+      "ItemAbbr": "房子",
+      "Time": 183,
+      "Supply": "36",
+      "Number": 1
+    },
+    {
+      "Step": 25,
+      "ItemAbbr": "补6农民",
+      "Time": 189,
+      "Supply": "36",
+      "Number": 1
+    },
+    {
+      "Step": 26,
+      "ItemAbbr": "恢复采气",
+      "Time": 194,
+      "Supply": "36",
+      "Number": 1
+    },
+    {
+      "Step": 27,
+      "ItemAbbr": "女王",
+      "Time": 202,
+      "Supply": "39",
+      "Number": 1
+    },
+    {
+      "Step": 28,
+      "ItemAbbr": "防空",
+      "Time": 207,
+      "Supply": "39",
+      "Number": 1
+    },
+    {
+      "Step": 29,
+      "ItemAbbr": "防空，补3农民",
+      "Time": 212,
+      "Supply": "39",
+      "Number": 1
+    },
+    {
+      "Step": 30,
+      "ItemAbbr": "补4农民",
+      "Time": 216,
+      "Supply": "42",
+      "Number": 1
+    },
+    {
+      "Step": 31,
+      "ItemAbbr": "女王",
+      "Time": 223,
+      "Supply": "46",
+      "Number": 1
+    },
+    {
+      "Step": 32,
+      "ItemAbbr": "补10农民",
+      "Time": 224,
+      "Supply": "46",
+      "Number": 1
+    },
+    {
+      "Step": 33,
+      "ItemAbbr": "房子",
+      "Time": 237,
+      "Supply": "55",
+      "Number": 1
+    },
+    {
+      "Step": 34,
+      "ItemAbbr": "房子",
+      "Time": 253,
+      "Supply": "60",
+      "Number": 1
+    },
+    {
+      "Step": 35,
+      "ItemAbbr": "房子",
+      "Time": 254,
+      "Supply": "60",
+      "Number": 1
+    },
+    {
+      "Step": 36,
+      "ItemAbbr": "补7农民",
+      "Time": 254,
+      "Supply": "60",
+      "Number": 1
+    },
+    {
+      "Step": 37,
+      "ItemAbbr": "2狗",
+      "Time": 266,
+      "Supply": "65",
+      "Number": 1
+    },
+    {
+      "Step": 38,
+      "ItemAbbr": "4狗",
+      "Time": 272,
+      "Supply": "66",
+      "Number": 1
+    },
+    {
+      "Step": 39,
+      "ItemAbbr": "补7农民",
+      "Time": 273,
+      "Supply": "66",
+      "Number": 1
+    },
+    {
+      "Step": 40,
+      "ItemAbbr": "防空",
+      "Time": 277,
+      "Supply": "66",
+      "Number": 1
+    },
+    {
+      "Step": 41,
+      "ItemAbbr": "二本，补1农民",
+      "Time": 279,
+      "Supply": "74",
+      "Number": 1
+    },
+    {
+      "Step": 42,
+      "ItemAbbr": "蟑螂巢",
+      "Time": 282,
+      "Supply": "74",
+      "Number": 1
+    },
+    {
+      "Step": 43,
+      "ItemAbbr": "开二气矿",
+      "Time": 284,
+      "Supply": "74",
+      "Number": 1
+    },
+    {
+      "Step": 44,
+      "ItemAbbr": "补5农民",
+      "Time": 285,
+      "Supply": "74",
+      "Number": 1
+    },
+    {
+      "Step": 45,
+      "ItemAbbr": "进化腔",
+      "Time": 298,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 46,
+      "ItemAbbr": "补4农民",
+      "Time": 298,
+      "Supply": "78",
+      "Number": 1
+    },
+    {
+      "Step": 47,
+      "ItemAbbr": "房子",
+      "Time": 306,
+      "Supply": "78",
+      "Number": 1
+    },
+    {
+      "Step": 48,
+      "ItemAbbr": "房子",
+      "Time": 310,
+      "Supply": "82",
+      "Number": 1
+    },
+    {
+      "Step": 49,
+      "ItemAbbr": "四基地",
+      "Time": 314,
+      "Supply": "82",
+      "Number": 1
+    },
+    {
+      "Step": 50,
+      "ItemAbbr": "房子，开6气矿",
+      "Time": 316,
+      "Supply": "82",
+      "Number": 1
+    },
+    {
+      "Step": 51,
+      "ItemAbbr": "2房子",
+      "Time": 320,
+      "Supply": "82",
+      "Number": 1
+    },
+    {
+      "Step": 52,
+      "ItemAbbr": "房子",
+      "Time": 321,
+      "Supply": "82",
+      "Number": 1
+    },
+    {
+      "Step": 53,
+      "ItemAbbr": "远程一攻",
+      "Time": 326,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 54,
+      "ItemAbbr": "补2农民",
+      "Time": 327,
+      "Supply": "79",
+      "Number": 1
+    },
+    {
+      "Step": 55,
+      "ItemAbbr": "女王",
+      "Time": 329,
+      "Supply": "81",
+      "Number": 1
+    },
+    {
+      "Step": 56,
+      "ItemAbbr": "开始爆蟑螂",
+      "Time": 335,
+      "Supply": "85",
+      "Number": 1
+    },
+    {
+      "Step": 57,
+      "ItemAbbr": "房子",
+      "Time": 339,
+      "Supply": "85",
+      "Number": 1
+    },
+    {
+      "Step": 58,
+      "ItemAbbr": "蟑螂移速",
+      "Time": 347,
+      "Supply": "95",
+      "Number": 1
+    },
+    {
+      "Step": 59,
+      "ItemAbbr": "房子",
+      "Time": 357,
+      "Supply": "105",
+      "Number": 1
+    },
+    {
+      "Step": 60,
+      "ItemAbbr": "房子",
+      "Time": 373,
+      "Supply": "127",
+      "Number": 1
+    },
+    {
+      "Step": 61,
+      "ItemAbbr": "房子",
+      "Time": 390,
+      "Supply": "135",
+      "Number": 1
+    },
+    {
+      "Step": 62,
+      "ItemAbbr": "房子",
+      "Time": 394,
+      "Supply": "148",
+      "Number": 1
+    },
+    {
+      "Step": 63,
+      "ItemAbbr": "房子",
+      "Time": 401,
+      "Supply": "148",
+      "Number": 1
+    },
+    {
+      "Step": 64,
+      "ItemAbbr": "房子移速",
+      "Time": 402,
+      "Supply": "148",
+      "Number": 1
+    },
+    {
+      "Step": 65,
+      "ItemAbbr": "房子运输",
+      "Time": 407,
+      "Supply": "148",
+      "Number": 1
+    },
+    {
+      "Step": 66,
+      "ItemAbbr": "女王",
+      "Time": 409,
+      "Supply": "148",
+      "Number": 1
+    },
+    {
+      "Step": 67,
+      "ItemAbbr": "房子",
+      "Time": 411,
+      "Supply": "148",
+      "Number": 1
+    },
+    {
+      "Step": 68,
+      "ItemAbbr": "房子",
+      "Time": 414,
+      "Supply": "150",
+      "Number": 1
+    },
+    {
+      "Step": 69,
+      "ItemAbbr": "变5火蟑螂",
+      "Time": 426,
+      "Supply": "166",
+      "Number": 1
+    },
+    {
+      "Step": 70,
+      "ItemAbbr": "房子",
+      "Time": 428,
+      "Supply": "166",
+      "Number": 1
+    },
+    {
+      "Step": 71,
+      "ItemAbbr": "装4女王出门",
+      "Time": 430,
+      "Supply": "166",
+      "Number": 1
+    },
+    {
+      "Step": 72,
+      "ItemAbbr": "7分半200人口",
+      "Time": 450,
+      "Supply": "179",
+      "Number": 1
+    }
+  ],
+  "ActionsListStr": "00:00, 补2农民, 12\n00:14, 气矿，农民, 14\n00:21, 房子, 15\n00:32, 农民去2矿, 15\n00:40, 补1农民, 15\n00:47, 二基地, 16\n00:48, 补3农民, 16\n01:08, 气矿, 18\n01:12, 血池, 17\n01:13, 补5农民, 17\n01:34, 满采一气, 18\n01:59, 两女王，2狗，房子, 21\n02:10, 停气, 21\n02:13, 狗速, 27\n02:13, 补4农民, 27\n02:22, 农民去3三矿, 27\n02:34, 三基地, 30\n02:36, 补1农民, 30\n02:37, 双重注卵, 30\n02:39, 2狗, 30\n02:45, 女王, 31\n02:52, 房子, 31\n02:52, 补3农民, 33\n03:03, 房子, 36\n03:09, 补6农民, 36\n03:14, 恢复采气, 36\n03:22, 女王, 39\n03:27, 防空, 39\n03:32, 防空，补3农民, 39\n03:36, 补4农民, 42\n03:43, 女王, 46\n03:44, 补10农民, 46\n03:57, 房子, 55\n04:13, 房子, 60\n04:14, 房子, 60\n04:14, 补7农民, 60\n04:26, 2狗, 65\n04:32, 4狗, 66\n04:33, 补7农民, 66\n04:37, 防空, 66\n04:39, 二本，补1农民, 74\n04:42, 蟑螂巢, 74\n04:44, 开二气矿, 74\n04:45, 补5农民, 74\n04:58, 进化腔, 79\n04:58, 补4农民, 78\n05:06, 房子, 78\n05:10, 房子, 82\n05:14, 四基地, 82\n05:16, 房子，开6气矿, 82\n05:20, 2房子, 82\n05:21, 房子, 82\n05:26, 远程一攻, 79\n05:27, 补2农民, 79\n05:29, 女王, 81\n05:35, 开始爆蟑螂, 85\n05:39, 房子, 85\n05:47, 蟑螂移速, 95\n05:57, 房子, 105\n06:13, 房子, 127\n06:30, 房子, 135\n06:34, 房子, 148\n06:41, 房子, 148\n06:42, 房子移速, 148\n06:47, 房子运输, 148\n06:49, 女王, 148\n06:51, 房子, 148\n06:54, 房子, 148\n07:06, 变5火蟑螂, 166\n07:08, 房子, 166\n07:10, 装4女王出门, 166\n07:30, 7分半200人口, 179"
+}

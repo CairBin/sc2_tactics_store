@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "category": "tvp",
+    "updateTime": "2026-05-20T11:52:01.632134",
+    "totalTactics": 2
+  },
+  "tactics": [
+    {
+      "id": "677a41fa-f530-cc24-288b-6cc52fc10f41",
+      "name": "TvP 4分20两矿枪坦一波",
+      "author": "ZeratalSky",
+      "matchup": "tvp",
+      "applicableVersion": "5.0.12.91115",
+      "tacticType": "Timeline",
+      "tacVersion": 4,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-05-17T00:00:00",
+      "filePath": "store/ZeratalSky/tvp_4分20两矿枪坦一波.json"
+    },
+    {
+      "id": "d30f68f5-c698-fc15-c5bd-29a1d1ac79ea",
+      "name": "TvP 4分20两矿枪坦一波",
+      "author": "ZeratalSky",
+      "matchup": "tvp",
+      "applicableVersion": "5.0.12.91115",
+      "tacticType": "Timeline",
+      "tacVersion": 4,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-05-17T00:00:00",
+      "filePath": "store/ZeratalSky/tvp_一攻针盾3BB防御脚速叉.json"
+    }
+  ]
+}

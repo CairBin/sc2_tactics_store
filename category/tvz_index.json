@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "category": "tvz",
+    "updateTime": "2026-05-20T11:52:01.634137",
+    "totalTactics": 1
+  },
+  "tactics": [
+    {
+      "id": "f9e8d7c6-b5a4-3210-9876-543210abcdef",
+      "name": "TvZ 火车侠光头一波",
+      "author": "ZeratalSky",
+      "matchup": "tvz",
+      "applicableVersion": "5.0.12.91115",
+      "tacticType": "Timeline",
+      "tacVersion": 3,
+      "modName": "Scii",
+      "modVersion": 100,
+      "updateTime": "2026-05-17T00:00:00",
+      "filePath": "store/ZeratalSky/tvz_2矿火车侠光头一波.json"
+    }
+  ]
+}

@@ -1,75 +1,10 @@
 {
   "meta": {
-    "version": "1.0",
-    "updateTime": "2026-05-20T11:52:01.623102",
-    "totalTactics": 13
+    "version": "5.0.12.91115",
+    "updateTime": "2026-05-20T11:52:01.638640",
+    "totalTactics": 8
   },
   "tactics": [
-    {
-      "id": "53b58ab1-4246-42e2-808a-134041c24c0d",
-      "name": "PVT急速霸王叉",
-      "author": "CairBin",
-      "matchup": "pvt",
-      "applicableVersion": "2.5.0.15.96516",
-      "tacticType": "Timeline",
-      "tacVersion": 1,
-      "modName": "Scii",
-      "modVersion": 100,
-      "updateTime": "2026-03-06T17:16:18",
-      "filePath": "store/cairbin/PVT_xx_rush.json"
-    },
-    {
-      "id": "74acb64c-e261-4144-bba7-94aabeaa3747",
-      "name": "PVZ 小金两航母",
-      "author": "CairBin",
-      "matchup": "pvz",
-      "applicableVersion": "2.5.0.15.96516",
-      "tacticType": "Timeline",
-      "tacVersion": 1,
-      "modName": "Scii",
-      "modVersion": 100,
-      "updateTime": "2026-03-06T20:06:43",
-      "filePath": "store/cairbin/PVZ_小金两航母.json"
-    },
-    {
-      "id": "ca17628d-bc82-2563-8a64-a4980e7da251",
-      "name": "ZVZ 12D狗毒爆一波",
-      "author": "Crush",
-      "matchup": "zvz",
-      "applicableVersion": "2.5.0.15.96516",
-      "tacticType": "Timeline",
-      "tacVersion": 1,
-      "modName": "Scii",
-      "modVersion": 100,
-      "updateTime": "2026-03-06T17:51:39",
-      "filePath": "store/Crush/ZVZ_12D狗毒爆一波.json"
-    },
-    {
-      "id": "d50d5e52-4dcf-497c-a7c0-5165cb5f62ef",
-      "name": "ZVZ 两矿一攻蟑螂",
-      "author": "Crush",
-      "matchup": "zvz",
-      "applicableVersion": "2.5.0.15.96516",
-      "tacticType": "Timeline",
-      "tacVersion": 1,
-      "modName": "Scii",
-      "modVersion": 100,
-      "updateTime": "2026-03-06T17:51:39",
-      "filePath": "store/Crush/ZVZ_两矿一攻蟑螂.json"
-    },
-    {
-      "id": "25376a41-1620-473b-a6bf-3d1f5738a99b",
-      "name": "PvP 4BG 追猎rush",
-      "author": "ZeratalSky",
-      "matchup": "pvp",
-      "applicableVersion": "2.5.0.15.96516",
-      "tacticType": "Timeline",
-      "tacVersion": 1,
-      "modName": "Scii",
-      "modVersion": 100,
-      "updateTime": "2026-03-02T00:00:00",
-      "filePath": "store/ZeratalSky/4bg_rush.json"
-    },
     {
       "id": "677a41fa-f530-cc24-288b-6cc52fc10f41",
       "name": "TvP 4分20两矿枪坦一波",
